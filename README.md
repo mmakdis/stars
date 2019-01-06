@@ -262,7 +262,6 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [sample-watchkit-apps](https://github.com/sanketfirodiya/sample-watchkit-apps) - Awesome list of WatchKit sample apps, tutorials and resources
-- [Learn.programming](https://github.com/lockys/Learn.programming) - :triumph: Keep learning and coding.
 - [3030](https://github.com/szhu/3030) - %%30%30 Game: Don't touch the trees! (Thanks, Chrome dev team!)
 
 ## PHP 
