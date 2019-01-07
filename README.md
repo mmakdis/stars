@@ -205,6 +205,7 @@
 
 ## JavaScript 
 
+- [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [appium-desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux
 - [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php, R
