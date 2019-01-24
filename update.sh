@@ -1,4 +1,4 @@
-starred --username dizaztor --sort > README.md
+python3 starred.starred --username dizaztor --sort > README.md
 git add -A
 git commit -m "update list"
 git push origin master
