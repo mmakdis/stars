@@ -48,10 +48,17 @@
 
 ## Assembly 
 
+- [REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ## C 
 
+- [ioq3](https://github.com/ioquake/ioq3) - The ioquake3 community effort to continue supporting/developing id's Quake III Arena
+- [DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
+- [Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
+- [rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge) - Hardware backdoors in some x86 CPUs
+- [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) - The single instruction C compiler
+- [memcached](https://github.com/memcached/memcached) - memcached development tree
 - [gcc](https://github.com/gcc-mirror/gcc) - 
 - [flac](https://github.com/xiph/flac) - Free Lossless Audio Codec
 - [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
@@ -85,6 +92,8 @@
 
 ## C# # 
 
+- [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
+- [pythonnet](https://github.com/pythonnet/pythonnet) - Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
 - [MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
 - [SOSCSRPG](https://github.com/ScottLilly/SOSCSRPG) - Scott's Open Source C# RPG
@@ -228,6 +237,8 @@
 
 ## JavaScript 
 
+- [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
+- [engine.io](https://github.com/socketio/engine.io) - 
 - [foswig.js](https://github.com/mrsharpoblunto/foswig.js) - A markov chain based random word generator
 - [amphtml](https://github.com/ampproject/amphtml) - The AMP web component library.
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -314,6 +325,12 @@
 
 ## Python 
 
+- [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer
+- [isso](https://github.com/posativ/isso) - a Disqus alternative
+- [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
+- [ironpython2](https://github.com/IronLanguages/ironpython2) - Implementation of the Python programming language for .NET Framework; built on top of the Dynamic Language Runtime (DLR).
+- [ironpython3](https://github.com/IronLanguages/ironpython3) - DO NOT USE. Implementation of Python 3.x for .NET Framework that is built on top of the Dynamic Language Runtime.
+- [anki](https://github.com/dae/anki) - Anki for desktop computers
 - [pytodoist](https://github.com/Garee/pytodoist) - ✅ Use Todoist with Python.
 - [sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
@@ -418,6 +435,7 @@
 
 ## Shell 
 
+- [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [locator](https://github.com/thelinuxchoice/locator) - Geolocator, Ip Tracker, Device Info by URL (Serveo and Ngrok)
 - [os-scripts](https://github.com/g0tmi1k/os-scripts) - Personal Collection of Operating Systems Scripts
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
