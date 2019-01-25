@@ -27,6 +27,7 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Nim](#nim)
+  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -84,6 +85,8 @@
 
 ## C# # 
 
+- [MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
+- [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
 - [SOSCSRPG](https://github.com/ScottLilly/SOSCSRPG) - Scott's Open Source C# RPG
 - [pcre-net](https://github.com/ltrzesniewski/pcre-net) - PCRE.NET - Perl Compatible Regular Expressions for .NET
 - [Animator](https://github.com/PavelTorgashov/Animator) - The component Animator allows you to animate any controls on your WinForms.
@@ -116,6 +119,8 @@
 
 ## C++ 
 
+- [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+- [haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
 - [supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 - [spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
@@ -223,6 +228,7 @@
 
 ## JavaScript 
 
+- [foswig.js](https://github.com/mrsharpoblunto/foswig.js) - A markov chain based random word generator
 - [amphtml](https://github.com/ampproject/amphtml) - The AMP web component library.
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
@@ -259,6 +265,10 @@
 
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
 
+## OCaml 
+
+- [plzoo](https://github.com/andrejbauer/plzoo) - Programming Languages Zoo
+
 ## Objective-C 
 
 - [configs](https://github.com/newnix/configs) - An easy way to track configuration changes to my workstation
@@ -266,6 +276,7 @@
 
 ## Others 
 
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :fire: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
 - [rockstar](https://github.com/dylanbeattie/rockstar) - The Rockstar programming language specification
@@ -303,6 +314,7 @@
 
 ## Python 
 
+- [pytodoist](https://github.com/Garee/pytodoist) - ✅ Use Todoist with Python.
 - [sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [PyPDF2](https://github.com/mstamy2/PyPDF2) - A utility to read and write PDFs with Python
