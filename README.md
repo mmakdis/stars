@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [ANTLR](#antlr)
   - [ActionScript](#actionscript)
   - [Assembly](#assembly)
   - [C](#c)
@@ -41,6 +42,10 @@
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Yacc](#yacc)
+
+## ANTLR 
+
+- [grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 
 ## ActionScript 
 
@@ -244,6 +249,8 @@
 
 ## JavaScript 
 
+- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
+- [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
 - [engine.io](https://github.com/socketio/engine.io) - 
 - [foswig.js](https://github.com/mrsharpoblunto/foswig.js) - A markov chain based random word generator
@@ -332,6 +339,7 @@
 
 ## Python 
 
+- [bocadillo](https://github.com/bocadilloproject/bocadillo) - 🥙 A modern Python web framework filled with asynchronous salsa
 - [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
@@ -442,6 +450,7 @@
 
 ## Shell 
 
+- [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [locator](https://github.com/thelinuxchoice/locator) - Geolocator, Ip Tracker, Device Info by URL (Serveo and Ngrok)
