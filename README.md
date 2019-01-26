@@ -298,7 +298,6 @@
 
 ## Objective-C 
 
-- [configs](https://github.com/newnix/configs) - An easy way to track configuration changes to my workstation
 - [ParallaxBlur](https://github.com/pyro2927/ParallaxBlur) - Easy to subclass parallax UITableController w/ blurring image header, floating header, and UIScrollView for content
 
 ## Others 
