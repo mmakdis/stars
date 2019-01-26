@@ -303,6 +303,8 @@
 
 ## Others 
 
+- [awesome-calculators](https://github.com/xxczaki/awesome-calculators) - 😎 A curated list of resources related to calculators!
+- [awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
 - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
 - [open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - :zap: This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
@@ -456,6 +458,7 @@
 
 ## Shell 
 
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
