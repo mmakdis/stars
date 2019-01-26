@@ -251,6 +251,7 @@
 
 ## JavaScript 
 
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
 - [nuclear](https://github.com/nukeop/nuclear) - Popcorn Time for music
 - [cloudquery](https://github.com/cloudfetch/cloudquery) - Turn any website to serverless API (support SPA!)
