@@ -6,6 +6,12 @@
 # 3. add to PATH, or just do an alias to this script.
 # 4. use git config --global credential.helper cache
 
+# NOTE:
+# If you get an error saying "403 API rate limit exceeded for {YOUR_API}"-
+# then as you can guess, it's related to your IP. One of the workarounds to this-
+# is using GitHub tokens. Go to: https://github.com/settings/tokens, and make a token.
+# then export it to GITHUB_TOKEN, and starred should automatically pick that token.
+
 pushd /mnt/d/Documents/Projects/awesome-stars/ &>/dev/null
 echo Regenerating README.md...
 python3 -m starred.starred --username dizaztor --sort > ./README.md
