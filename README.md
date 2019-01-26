@@ -58,6 +58,7 @@
 
 ## C 
 
+- [littlefs](https://github.com/ARMmbed/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [iodine](https://github.com/boazsegev/iodine) - iodine - HTTP / WebSockets Server for Ruby with Pub/Sub support
 - [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
@@ -249,6 +250,7 @@
 
 ## JavaScript 
 
+- [cloudquery](https://github.com/cloudfetch/cloudquery) - Turn any website to serverless API (support SPA!)
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
@@ -301,6 +303,9 @@
 
 ## Others 
 
+- [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
+- [open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
+- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - :zap: This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :fire: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
@@ -469,6 +474,7 @@
 
 ## TypeScript 
 
+- [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 - [vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web

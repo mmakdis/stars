@@ -4,7 +4,7 @@
 # 1. change the directory that pushd uses
 # 2. change the username
 # 3. add to PATH, or just do an alias to this script.
-# 4. use git config --global credential.helper cache
+# 4. use git config --global credential.helper store (or you can use cache)
 
 # NOTE:
 # If you get an error saying "403 API rate limit exceeded for {YOUR_API}"-
