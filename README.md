@@ -38,6 +38,7 @@
   - [QML](#qml)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
@@ -58,6 +59,7 @@
 
 ## C 
 
+- [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send issues/patches to the Lua mailing list https://www.lua.org/lua-l.html
 - [x48](https://github.com/gwenhael-le-moine/x48) - HP48 calculator emulator (mirror of sourceforge's mirror of berlios)
 - [littlefs](https://github.com/ARMmbed/littlefs) - A little fail-safe filesystem designed for microcontrollers
@@ -105,6 +107,7 @@
 
 ## C# # 
 
+- [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 - [pythonnet](https://github.com/pythonnet/pythonnet) - Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
 - [MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
@@ -141,6 +144,7 @@
 
 ## C++ 
 
+- [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
 - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 - [haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
@@ -306,6 +310,7 @@
 
 ## Others 
 
+- [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [awesome-calculators](https://github.com/xxczaki/awesome-calculators) - 😎 A curated list of resources related to calculators!
 - [awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
 - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
@@ -349,6 +354,7 @@
 
 ## Python 
 
+- [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [bocadillo](https://github.com/bocadilloproject/bocadillo) - 🥙 A modern Python web framework filled with asynchronous salsa
 - [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer
@@ -459,6 +465,10 @@
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [hematite](https://github.com/PistonDevelopers/hematite) - A simple Minecraft written in Rust with the Piston game engine
 
+## Scala 
+
+- [spark](https://github.com/apache/spark) - Apache Spark
+
 ## Shell 
 
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -477,6 +487,7 @@
 
 ## Swift 
 
+- [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 
 ## TypeScript 
