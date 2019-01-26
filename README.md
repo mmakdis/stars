@@ -58,6 +58,7 @@
 
 ## C 
 
+- [x48](https://github.com/gwenhael-le-moine/x48) - HP48 calculator emulator (mirror of sourceforge's mirror of berlios)
 - [littlefs](https://github.com/ARMmbed/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [iodine](https://github.com/boazsegev/iodine) - iodine - HTTP / WebSockets Server for Ruby with Pub/Sub support
