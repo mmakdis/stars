@@ -53,6 +53,7 @@
 
 ## C 
 
+- [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [iodine](https://github.com/boazsegev/iodine) - iodine - HTTP / WebSockets Server for Ruby with Pub/Sub support
 - [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server
 - [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework
@@ -440,6 +441,7 @@
 
 ## Shell 
 
+- [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [locator](https://github.com/thelinuxchoice/locator) - Geolocator, Ip Tracker, Device Info by URL (Serveo and Ngrok)
 - [os-scripts](https://github.com/g0tmi1k/os-scripts) - Personal Collection of Operating Systems Scripts
