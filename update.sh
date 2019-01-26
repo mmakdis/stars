@@ -11,6 +11,7 @@
 # then as you can guess, it's related to your IP. One of the workarounds to this-
 # is using GitHub tokens. Go to: https://github.com/settings/tokens, and make a token.
 # then export it to GITHUB_TOKEN, and starred should automatically pick that token.
+# example: export GITHUB_TOKEN=replace_with_your_token
 
 pushd /mnt/d/Documents/Projects/awesome-stars/ &>/dev/null
 echo Regenerating README.md...
@@ -21,3 +22,4 @@ git commit -m "auto-update" &>/dev/null
 git push origin master &>/dev/null
 popd &>/dev/null
 echo Done.
+
