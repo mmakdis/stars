@@ -11,7 +11,7 @@ echo Regenerating README.md...
 python3 -m starred.starred --username dizaztor --sort > ./README.md
 echo Updating the repo...
 git add -A &>/dev/null
-git commit -m "update list" &>/dev/null
+git commit -m "auto-update" &>/dev/null
 git push origin master &>/dev/null
 popd &>/dev/null
 echo Done.
