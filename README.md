@@ -20,6 +20,7 @@
   - [Dart](#dart)
   - [Eagle](#eagle)
   - [Emacs Lisp](#emacs-lisp)
+  - [Erlang](#erlang)
   - [F#](#f#)
   - [Go](#go)
   - [HTML](#html)
@@ -59,6 +60,9 @@
 
 ## C 
 
+- [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
+- [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
+- [RediSearch](https://github.com/RedisLabsModules/RediSearch) - FullText Search and Secondary Index module for Redis
 - [kazmath](https://github.com/Kazade/kazmath) - A C math library targeted at games
 - [mathc](https://github.com/felselva/mathc) - Pure C math library for 2D and 3D programming.
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
@@ -147,6 +151,8 @@
 
 ## C++ 
 
+- [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
+- [yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 - [math](https://github.com/stan-dev/math) - The Stan Math Library is a C++, reverse-mode automatic differentiation library designed to be usable, extensive and extensible, efficient, scalable, stable, portable, and redistributable in order to facilitate the construction and utilization of algorithms that utilize derivatives.
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
@@ -184,6 +190,7 @@
 
 ## CSS 
 
+- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [lovelace-website](https://github.com/project-lovelace/lovelace-website) - Server-side source code for the Project Lovelace website.
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: A flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios.
 
@@ -223,12 +230,17 @@
 - [emacs-fireplace](https://github.com/johanvts/emacs-fireplace) - A cozy fireplace for emacs.
 - [dotfiles](https://github.com/kadinparker/dotfiles) - 
 
+## Erlang 
+
+- [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source multi-protocol messaging broker
+
 ## F# # 
 
 - [Bolero](https://github.com/fsbolero/Bolero) - F# on WebAssembly
 
 ## Go 
 
+- [thanos](https://github.com/improbable-eng/thanos) - Highly available Prometheus setup with long term storage capabilities.
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
 - [todoist](https://github.com/sachaos/todoist) - Todoist CLI Client. I ❤️ Todoist and CLI.
@@ -362,6 +374,9 @@
 
 ## Python 
 
+- [trio](https://github.com/python-trio/trio) - Trio – Pythonic async I/O for humans and snake people 🐍
+- [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
+- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [bocadillo](https://github.com/bocadilloproject/bocadillo) - 🥙 A modern Python web framework filled with asynchronous salsa
