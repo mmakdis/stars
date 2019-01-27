@@ -403,6 +403,8 @@
 
 ## Python 
 
+- [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS detection suite.
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) - Open Source Neural Machine Translation in PyTorch
 - [Facebom](https://github.com/Oseid/Facebom) - A Python script for Brute Force Attack On Facebook Account :)
 - [ciso8601](https://github.com/closeio/ciso8601) - Fast ISO8601 date time parser for Python written in C
