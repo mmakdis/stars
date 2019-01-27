@@ -8,6 +8,7 @@
   - [ANTLR](#antlr)
   - [ActionScript](#actionscript)
   - [Assembly](#assembly)
+  - [AutoHotkey](#autohotkey)
   - [Bro](#bro)
   - [C](#c)
   - [C#](#c#)
@@ -38,6 +39,7 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [QML](#qml)
+  - [Ren'Py](#ren'py)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -58,6 +60,10 @@
 
 - [REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+
+## AutoHotkey 
+
+- [in-line-calculator](https://github.com/davebrny/in-line-calculator) - 📟 an interface-less calculator for Windows
 
 ## Bro 
 
@@ -308,6 +314,7 @@
 - [amphtml](https://github.com/ampproject/amphtml) - The AMP web component library.
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
+- [rockstar](https://github.com/RockstarLang/rockstar) - The Rockstar programming language specification
 - [appium-desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux
 - [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php, R
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
@@ -362,7 +369,6 @@
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :zap: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
-- [rockstar](https://github.com/dylanbeattie/rockstar) - The Rockstar programming language specification
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [observatory](https://github.com/jhermann/observatory) - :octocat: :star2: Awesome List of my own!
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -397,6 +403,8 @@
 
 ## Python 
 
+- [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) - Open Source Neural Machine Translation in PyTorch
+- [Facebom](https://github.com/Oseid/Facebom) - A Python script for Brute Force Attack On Facebook Account :)
 - [ciso8601](https://github.com/closeio/ciso8601) - Fast ISO8601 date time parser for Python written in C
 - [invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
@@ -495,6 +503,10 @@
 ## QML 
 
 - [qml-material](https://github.com/papyros/qml-material) - :book: Material Design implemented in QtQuick
+
+## Ren'Py 
+
+- [renpy](https://github.com/renpy/renpy) - The Ren'Py Visual Novel Engine
 
 ## Ruby 
 
