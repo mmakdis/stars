@@ -374,6 +374,7 @@
 
 ## Python 
 
+- [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
 - [trio](https://github.com/python-trio/trio) - Trio – Pythonic async I/O for humans and snake people 🐍
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
