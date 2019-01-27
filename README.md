@@ -8,6 +8,7 @@
   - [ANTLR](#antlr)
   - [ActionScript](#actionscript)
   - [Assembly](#assembly)
+  - [Bro](#bro)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -58,8 +59,26 @@
 - [REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
+## Bro 
+
+- [zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+
 ## C 
 
+- [uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
+- [tig](https://github.com/jonas/tig) - Text-mode interface for git
+- [smartos-live](https://github.com/joyent/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: http://smartos.org/smartos-mailing-list/
+- [ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades
+- [fq](https://github.com/circonus-labs/fq) - F@#$*&%Q (Message queue that is fast, brokered, in C and gets out of your way)
+- [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
+- [nsntrace](https://github.com/jonasdn/nsntrace) - Perform network trace of a single process by using network namespaces.
+- [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.
+- [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+- [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
+- [no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+- [traildb](https://github.com/traildb/traildb) - TrailDB is an efficient tool for storing and querying series of events
+- [tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
+- [libleak](https://github.com/WuBingzheng/libleak) - detect memory leak by LD_PRELOAD, without changing the target program
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
 - [RediSearch](https://github.com/RedisLabsModules/RediSearch) - FullText Search and Secondary Index module for Redis
@@ -151,6 +170,8 @@
 
 ## C++ 
 
+- [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
+- [atom](https://github.com/nucleic/atom) - Memory efficient Python objects
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 - [math](https://github.com/stan-dev/math) - The Stan Math Library is a C++, reverse-mode automatic differentiation library designed to be usable, extensive and extensible, efficient, scalable, stable, portable, and redistributable in order to facilitate the construction and utilization of algorithms that utilize derivatives.
@@ -271,6 +292,7 @@
 
 ## JavaScript 
 
+- [dukpy](https://github.com/amol-/dukpy) - Simple JavaScript interpreter for Python
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
@@ -325,6 +347,7 @@
 
 ## Objective-C 
 
+- [BLAKE2](https://github.com/BLAKE2/BLAKE2) - BLAKE2 official implementations
 - [ParallaxBlur](https://github.com/pyro2927/ParallaxBlur) - Easy to subclass parallax UITableController w/ blurring image header, floating header, and UIScrollView for content
 
 ## Others 
@@ -374,6 +397,8 @@
 
 ## Python 
 
+- [ciso8601](https://github.com/closeio/ciso8601) - Fast ISO8601 date time parser for Python written in C
+- [invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
 - [trio](https://github.com/python-trio/trio) - Trio – Pythonic async I/O for humans and snake people 🐍
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
