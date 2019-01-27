@@ -59,6 +59,8 @@
 
 ## C 
 
+- [kazmath](https://github.com/Kazade/kazmath) - A C math library targeted at games
+- [mathc](https://github.com/felselva/mathc) - Pure C math library for 2D and 3D programming.
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send issues/patches to the Lua mailing list https://www.lua.org/lua-l.html
 - [x48](https://github.com/gwenhael-le-moine/x48) - HP48 calculator emulator (mirror of sourceforge's mirror of berlios)
@@ -107,6 +109,7 @@
 
 ## C# # 
 
+- [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 - [pythonnet](https://github.com/pythonnet/pythonnet) - Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
@@ -144,6 +147,7 @@
 
 ## C++ 
 
+- [math](https://github.com/stan-dev/math) - The Stan Math Library is a C++, reverse-mode automatic differentiation library designed to be usable, extensive and extensible, efficient, scalable, stable, portable, and redistributable in order to facilitate the construction and utilization of algorithms that utilize derivatives.
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
 - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
@@ -255,6 +259,9 @@
 
 ## JavaScript 
 
+- [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
+- [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
+- [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
 - [nuclear](https://github.com/nukeop/nuclear) - Popcorn Time for music
@@ -310,6 +317,7 @@
 
 ## Others 
 
+- [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [awesome-calculators](https://github.com/xxczaki/awesome-calculators) - 😎 A curated list of resources related to calculators!
 - [awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
