@@ -27,6 +27,7 @@
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
+  - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -71,6 +72,8 @@
 
 ## C 
 
+- [neko](https://github.com/HaxeFoundation/neko) - The Neko Virtual Machine
+- [hashlink](https://github.com/HaxeFoundation/hashlink) - A virtual machine for Haxe
 - [uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [smartos-live](https://github.com/joyent/smartos-live) - For more information, please see http://smartos.org/  For any questions that aren't answered there, please join the SmartOS discussion list: http://smartos.org/smartos-mailing-list/
@@ -291,6 +294,13 @@
 - [Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
 - [pilya](https://github.com/yamnikov-oleg/pilya) - Compiler for toy programming language made for educational purposes
 
+## Haxe 
+
+- [openfl](https://github.com/openfl/openfl) - Interactive game and app development library for TS, Haxe, JS and AS3
+- [tink_core](https://github.com/haxetink/tink_core) - Core utilities
+- [heaps](https://github.com/HeapsIO/heaps) - Heaps : Haxe Game Framework
+- [haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
+
 ## Java 
 
 - [antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -298,13 +308,14 @@
 
 ## JavaScript 
 
+- [lime](https://github.com/openfl/lime) - A foundational Haxe framework for cross-platform development
 - [dukpy](https://github.com/amol-/dukpy) - Simple JavaScript interpreter for Python
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
-- [nuclear](https://github.com/nukeop/nuclear) - Popcorn Time for music
+- [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
 - [cloudquery](https://github.com/cloudfetch/cloudquery) - Turn any website to serverless API (support SPA!)
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
