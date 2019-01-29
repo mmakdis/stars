@@ -21,6 +21,7 @@
   - [D](#d)
   - [Dart](#dart)
   - [Eagle](#eagle)
+  - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [F#](#f#)
@@ -253,6 +254,10 @@
 ## Eagle 
 
 - [magspoof](https://github.com/samyk/magspoof) - A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy.
+
+## Elixir 
+
+- [05AB1E](https://github.com/Adriandmen/05AB1E) - A concise stack-based golfing language
 
 ## Emacs Lisp 
 
