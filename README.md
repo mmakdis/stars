@@ -313,6 +313,7 @@
 
 ## JavaScript 
 
+- [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [lime](https://github.com/openfl/lime) - A foundational Haxe framework for cross-platform development
 - [dukpy](https://github.com/amol-/dukpy) - Simple JavaScript interpreter for Python
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
@@ -375,6 +376,7 @@
 
 ## Others 
 
+- [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [awesome-calculators](https://github.com/xxczaki/awesome-calculators) - 😎 A curated list of resources related to calculators!
