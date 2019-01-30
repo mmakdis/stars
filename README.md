@@ -313,6 +313,7 @@
 
 ## JavaScript 
 
+- [streama](https://github.com/streamaserver/streama) - Self hosted streaming media server.
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [lime](https://github.com/openfl/lime) - A foundational Haxe framework for cross-platform development
 - [dukpy](https://github.com/amol-/dukpy) - Simple JavaScript interpreter for Python
