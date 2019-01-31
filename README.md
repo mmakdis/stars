@@ -73,6 +73,9 @@
 
 ## C 
 
+- [freebsd](https://github.com/freebsd/freebsd) - FreeBSD src tree (read-only mirror)
+- [xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
+- [cpdup](https://github.com/DragonFlyBSD/cpdup) - Filesystem mirroring utility from DragonFly BSD
 - [neko](https://github.com/HaxeFoundation/neko) - The Neko Virtual Machine
 - [hashlink](https://github.com/HaxeFoundation/hashlink) - A virtual machine for Haxe
 - [uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
@@ -142,6 +145,7 @@
 
 ## C# # 
 
+- [nfx](https://github.com/agnicore/nfx) - .NET Standard Unistack Framework
 - [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
@@ -180,6 +184,7 @@
 
 ## C++ 
 
+- [fltk](https://github.com/fltk/fltk) - FLTK - Fast Light Tool Kit - https://github.com/fltk/fltk - cross platform GUI development
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [atom](https://github.com/nucleic/atom) - Memory efficient Python objects
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -287,6 +292,7 @@
 
 ## HTML 
 
+- [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - A beautifully designed WYSIWYG HTML Editor based on HTML5.
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [dotnet](https://github.com/Microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
@@ -313,6 +319,9 @@
 
 ## JavaScript 
 
+- [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
+- [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project
+- [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [streama](https://github.com/streamaserver/streama) - Self hosted streaming media server.
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [lime](https://github.com/openfl/lime) - A foundational Haxe framework for cross-platform development
@@ -377,6 +386,8 @@
 
 ## Others 
 
+- [freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
+- [DPorts](https://github.com/DragonFlyBSD/DPorts) - The dedicated application build system for DragonFly BSD
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
