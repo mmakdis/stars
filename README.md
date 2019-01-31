@@ -145,6 +145,8 @@
 
 ## C# # 
 
+- [mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
+- [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [nfx](https://github.com/agnicore/nfx) - .NET Standard Unistack Framework
 - [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
 - [blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
@@ -585,6 +587,8 @@
 
 ## TypeScript 
 
+- [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
+- [browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 - [vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
