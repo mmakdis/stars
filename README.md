@@ -322,6 +322,8 @@
 
 ## JavaScript 
 
+- [live-editor](https://github.com/Khan/live-editor) - A browser-based live coding environment.
+- [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 - [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
