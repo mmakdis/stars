@@ -73,6 +73,7 @@
 
 ## C 
 
+- [kvm-kext](https://github.com/geohot/kvm-kext) - An implementation of /dev/kvm for Mac OS X
 - [freebsd](https://github.com/freebsd/freebsd) - FreeBSD src tree (read-only mirror)
 - [xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
 - [cpdup](https://github.com/DragonFlyBSD/cpdup) - Filesystem mirroring utility from DragonFly BSD
@@ -322,6 +323,7 @@
 
 ## JavaScript 
 
+- [marktext](https://github.com/marktext/marktext) - 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [live-editor](https://github.com/Khan/live-editor) - A browser-based live coding environment.
@@ -339,7 +341,7 @@
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
 - [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
-- [cloudquery](https://github.com/t9t-io/cloudquery) - Turn any website to serverless API (support SPA!)
+- [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to serverless API (support SPA!)
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
@@ -441,6 +443,8 @@
 
 ## Python 
 
+- [Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
+- [twitchslam](https://github.com/geohot/twitchslam) - A toy implementation of monocular SLAM written while livestreaming
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS detection suite.
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) - Open Source Neural Machine Translation in PyTorch
@@ -560,6 +564,7 @@
 
 ## Rust 
 
+- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [XORcism](https://github.com/BenH11235/XORcism) - Command-line tool that breaks rotating-xor (and similar) ciphertexts
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
