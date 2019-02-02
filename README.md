@@ -322,6 +322,8 @@
 
 ## JavaScript 
 
+- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
+- [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [live-editor](https://github.com/Khan/live-editor) - A browser-based live coding environment.
 - [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
@@ -337,7 +339,7 @@
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
 - [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
-- [cloudquery](https://github.com/cloudfetch/cloudquery) - Turn any website to serverless API (support SPA!)
+- [cloudquery](https://github.com/t9t-io/cloudquery) - Turn any website to serverless API (support SPA!)
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
@@ -391,6 +393,7 @@
 
 ## Others 
 
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - :pill: Curated list of falsehoods programmers believe in.
 - [freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
 - [DPorts](https://github.com/DragonFlyBSD/DPorts) - The dedicated application build system for DragonFly BSD
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
