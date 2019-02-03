@@ -32,6 +32,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Makefile](#makefile)
   - [Nim](#nim)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
@@ -380,6 +381,10 @@
 
 - [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
 
+## Makefile 
+
+- [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
+
 ## Nim 
 
 - [Nim](https://github.com/nim-lang/Nim) - Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in that order of priority).
@@ -395,6 +400,7 @@
 
 ## Others 
 
+- [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - :pill: Curated list of falsehoods programmers believe in.
 - [freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
 - [DPorts](https://github.com/DragonFlyBSD/DPorts) - The dedicated application build system for DragonFly BSD
@@ -577,6 +583,7 @@
 
 ## Shell 
 
+- [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
 - [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
@@ -598,6 +605,7 @@
 
 ## TypeScript 
 
+- [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
