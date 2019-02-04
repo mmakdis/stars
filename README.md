@@ -32,6 +32,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Lua](#lua)
   - [Makefile](#makefile)
   - [Nim](#nim)
   - [OCaml](#ocaml)
@@ -74,6 +75,7 @@
 
 ## C 
 
+- [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [kvm-kext](https://github.com/geohot/kvm-kext) - An implementation of /dev/kvm for Mac OS X
 - [freebsd](https://github.com/freebsd/freebsd) - FreeBSD src tree (read-only mirror)
 - [xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
@@ -147,6 +149,7 @@
 
 ## C# # 
 
+- [SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 - [mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [nfx](https://github.com/agnicore/nfx) - .NET Standard Unistack Framework
@@ -381,6 +384,10 @@
 
 - [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
 
+## Lua 
+
+- [moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
+
 ## Makefile 
 
 - [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
@@ -482,7 +489,7 @@
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
 - [milksnake](https://github.com/getsentry/milksnake) - A setuptools/wheel/cffi extension to embed a binary data in wheels
 - [arcade](https://github.com/pvcraven/arcade) - Easy to use Python library for creating 2D arcade games.
-- [inter](https://github.com/rsms/inter) - The Inter UI font family
+- [inter](https://github.com/rsms/inter) - The Inter font family
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
 - [Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, and 3.7.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 - [black](https://github.com/ambv/black) - The uncompromising Python code formatter
