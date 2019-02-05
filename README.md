@@ -192,6 +192,7 @@
 
 ## C++ 
 
+- [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
 - [fltk](https://github.com/fltk/fltk) - FLTK - Fast Light Tool Kit - https://github.com/fltk/fltk - cross platform GUI development
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [atom](https://github.com/nucleic/atom) - Memory efficient Python objects
@@ -616,6 +617,7 @@
 
 ## TypeScript 
 
+- [pathfinding-lab](https://github.com/rvhuang/pathfinding-lab) - Run, test and compare all algorithms and heuristic functions
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
