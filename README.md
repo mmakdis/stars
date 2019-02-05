@@ -75,6 +75,7 @@
 
 ## C 
 
+- [vectorize_test](https://github.com/SanderMertens/vectorize_test) - Test the performance difference between vectorized and non-vectorized code
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [kvm-kext](https://github.com/geohot/kvm-kext) - An implementation of /dev/kvm for Mac OS X
 - [freebsd](https://github.com/freebsd/freebsd) - FreeBSD src tree (read-only mirror)
@@ -327,6 +328,7 @@
 
 ## JavaScript 
 
+- [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and increase it every day until their site completely fades away
 - [marktext](https://github.com/marktext/marktext) - 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
