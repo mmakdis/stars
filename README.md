@@ -458,6 +458,7 @@
 
 ## Python 
 
+- [Sparlab](https://github.com/realjohnward/Sparlab) - Sparlab is an open source training platform for fighting gamers
 - [twitchcoins](https://github.com/geohot/twitchcoins) - 
 - [Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [twitchslam](https://github.com/geohot/twitchslam) - A toy implementation of monocular SLAM written while livestreaming
