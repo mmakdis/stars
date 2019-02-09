@@ -75,6 +75,7 @@
 
 ## C 
 
+- [fcrackzip](https://github.com/hyc/fcrackzip) - A braindead program for cracking encrypted ZIP archives. Forked from http://oldhome.schmorp.de/marc/fcrackzip.html
 - [vectorize_test](https://github.com/SanderMertens/vectorize_test) - Test the performance difference between vectorized and non-vectorized code
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [kvm-kext](https://github.com/geohot/kvm-kext) - An implementation of /dev/kvm for Mac OS X
@@ -329,7 +330,7 @@
 
 ## JavaScript 
 
-- [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and increase it every day until their site completely fades away
+- [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [marktext](https://github.com/marktext/marktext) - 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
@@ -422,7 +423,7 @@
 - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
 - [open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - :fire: This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :zap: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :no_entry: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
