@@ -618,6 +618,7 @@
 
 ## TypeScript 
 
+- [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [pathfinding-lab](https://github.com/rvhuang/pathfinding-lab) - Run, test and compare all algorithms and heuristic functions
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
