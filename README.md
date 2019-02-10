@@ -75,6 +75,7 @@
 
 ## C 
 
+- [littlewolf](https://github.com/glouw/littlewolf) - The tiny software graphics and game engine
 - [fcrackzip](https://github.com/hyc/fcrackzip) - A braindead program for cracking encrypted ZIP archives. Forked from http://oldhome.schmorp.de/marc/fcrackzip.html
 - [vectorize_test](https://github.com/SanderMertens/vectorize_test) - Test the performance difference between vectorized and non-vectorized code
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
