@@ -303,6 +303,7 @@
 
 ## HTML 
 
+- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - A beautifully designed WYSIWYG HTML Editor based on HTML5.
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
@@ -331,6 +332,7 @@
 
 ## JavaScript 
 
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [marktext](https://github.com/marktext/marktext) - 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
@@ -338,7 +340,6 @@
 - [live-editor](https://github.com/Khan/live-editor) - A browser-based live coding environment.
 - [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
-- [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [streama](https://github.com/streamaserver/streama) - Self hosted streaming media server.
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
@@ -347,7 +348,6 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test: React, React Native, Vue, Angular, Ember
 - [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
 - [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to serverless API (support SPA!)
@@ -361,7 +361,7 @@
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [rockstar](https://github.com/RockstarLang/rockstar) - The Rockstar programming language specification
 - [appium-desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux
-- [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php, R
+- [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php, R, Go, Rust, JSON
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [DoodleMaster](https://github.com/karanchahal/DoodleMaster) - "Don't code your UI, Draw  it !"
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -477,7 +477,7 @@
 - [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
-- [bocadillo](https://github.com/bocadilloproject/bocadillo) - 🥙 A modern Python web framework filled with asynchronous salsa
+- [bocadillo](https://github.com/bocadilloproject/bocadillo) - A modern Python web framework filled with asynchronous salsa
 - [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
@@ -614,6 +614,7 @@
 
 ## Swift 
 
+- [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project
 - [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 
