@@ -77,6 +77,7 @@
 
 ## C 
 
+- [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [AMD-High-Sierra-XNU](https://github.com/Shaneee92/AMD-High-Sierra-XNU) - AMD CPU Support for macOS High Sierra
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [littlewolf](https://github.com/glouw/littlewolf) - The tiny software graphics and game engine
@@ -336,6 +337,7 @@
 
 ## Java 
 
+- [Digital](https://github.com/hneemann/Digital) - A digital circuit simulator
 - [TinyFerdinand](https://github.com/dribbleware1/TinyFerdinand) - A simple java game im working on! follow along with progress here:
 - [antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [blade](https://github.com/lets-blade/blade) - :rocket: Lightning fast and elegant mvc framework for Java8
