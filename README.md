@@ -25,6 +25,7 @@
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [F#](#f#)
+  - [GDScript](#gdscript)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -50,6 +51,7 @@
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+  - [Vim script](#vim-script)
   - [Yacc](#yacc)
 
 ## ANTLR 
@@ -75,6 +77,8 @@
 
 ## C 
 
+- [AMD-High-Sierra-XNU](https://github.com/Shaneee92/AMD-High-Sierra-XNU) - AMD CPU Support for macOS High Sierra
+- [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [littlewolf](https://github.com/glouw/littlewolf) - The tiny software graphics and game engine
 - [fcrackzip](https://github.com/hyc/fcrackzip) - A braindead program for cracking encrypted ZIP archives. Forked from http://oldhome.schmorp.de/marc/fcrackzip.html
 - [vectorize_test](https://github.com/SanderMertens/vectorize_test) - Test the performance difference between vectorized and non-vectorized code
@@ -132,7 +136,6 @@
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [telebot](https://github.com/smartnode/telebot) - Telegram Bot API in C
-- [vim](https://github.com/vim/vim) - The official Vim repository
 - [nnn](https://github.com/jarun/nnn) - :dolphin: Tiny, lightning fast, feature-packed file manager
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
@@ -194,6 +197,9 @@
 
 ## C++ 
 
+- [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
+- [MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher) - A Fractal Physics Game
+- [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
 - [fltk](https://github.com/fltk/fltk) - FLTK - Fast Light Tool Kit - https://github.com/fltk/fltk - cross platform GUI development
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
@@ -288,6 +294,10 @@
 ## F# # 
 
 - [Bolero](https://github.com/fsbolero/Bolero) - F# on WebAssembly
+
+## GDScript 
+
+- [GodotVisualDebugger](https://github.com/rocknightstudios/GodotVisualDebugger) - 
 
 ## Go 
 
@@ -424,7 +434,7 @@
 - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
 - [open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - :fire: This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :no_entry: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :star: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
@@ -461,6 +471,7 @@
 
 ## Python 
 
+- [FaceEditor](https://github.com/HackerPoet/FaceEditor) - Unsupervised learning to find facial features.
 - [Sparlab](https://github.com/realjohnward/Sparlab) - Sparlab is an open source training platform for fighting gamers
 - [twitchcoins](https://github.com/geohot/twitchcoins) - 
 - [Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
@@ -574,6 +585,7 @@
 
 ## Ruby 
 
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [sonic-pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone
 - [asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
@@ -630,6 +642,10 @@
 - [vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
+
+## Vim script 
+
+- [vim](https://github.com/vim/vim) - The official Vim repository
 
 ## Yacc 
 
