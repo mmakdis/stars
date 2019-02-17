@@ -77,6 +77,7 @@
 
 ## C 
 
+- [exengine](https://github.com/exezin/exengine) - A C99 3D game engine
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [AMD-High-Sierra-XNU](https://github.com/Shaneee92/AMD-High-Sierra-XNU) - AMD CPU Support for macOS High Sierra
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
