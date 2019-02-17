@@ -244,6 +244,7 @@
 
 ## CSS 
 
+- [aesthetic-css](https://github.com/torch2424/aesthetic-css) - A vaporwave CSS framework
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [lovelace-website](https://github.com/project-lovelace/lovelace-website) - Server-side source code for the Project Lovelace website.
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: A flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios.
@@ -337,7 +338,7 @@
 
 ## Java 
 
-- [Digital](https://github.com/hneemann/Digital) - A digital circuit simulator
+- [Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 - [TinyFerdinand](https://github.com/dribbleware1/TinyFerdinand) - A simple java game im working on! follow along with progress here:
 - [antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [blade](https://github.com/lets-blade/blade) - :rocket: Lightning fast and elegant mvc framework for Java8
