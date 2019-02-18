@@ -347,6 +347,7 @@
 
 ## JavaScript 
 
+- [ikonate](https://github.com/mikolajdobrucki/ikonate) - fully customisable & accessible vector icons
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [marktext](https://github.com/marktext/marktext) - 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
@@ -476,6 +477,7 @@
 
 ## Python 
 
+- [gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) - Python implementation of 30-seconds-of-code
 - [AmbroBot](https://github.com/Ambro17/AmbroBot) - Telegram bot to suit my needs
 - [FaceEditor](https://github.com/HackerPoet/FaceEditor) - Unsupervised learning to find facial features.
@@ -495,7 +497,7 @@
 - [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
-- [bocadillo](https://github.com/bocadilloproject/bocadillo) - A modern Python web framework filled with asynchronous salsa
+- [bocadillo](https://github.com/bocadilloproject/bocadillo) - 🥪 A modern Python web framework filled with asynchronous salsa
 - [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
