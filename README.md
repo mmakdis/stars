@@ -245,6 +245,7 @@
 
 ## CSS 
 
+- [devicon](https://github.com/konpa/devicon) - Set of icons representing programming languages, designing & development tools
 - [aesthetic-css](https://github.com/torch2424/aesthetic-css) - A vaporwave CSS framework
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [lovelace-website](https://github.com/project-lovelace/lovelace-website) - Server-side source code for the Project Lovelace website.
@@ -475,6 +476,8 @@
 
 ## Python 
 
+- [30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) - Python implementation of 30-seconds-of-code
+- [AmbroBot](https://github.com/Ambro17/AmbroBot) - Telegram bot to suit my needs
 - [FaceEditor](https://github.com/HackerPoet/FaceEditor) - Unsupervised learning to find facial features.
 - [Sparlab](https://github.com/realjohnward/Sparlab) - Sparlab is an open source training platform for fighting gamers
 - [twitchcoins](https://github.com/geohot/twitchcoins) - 
