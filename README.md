@@ -77,6 +77,7 @@
 
 ## C 
 
+- [greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
 - [exengine](https://github.com/exezin/exengine) - A C99 3D game engine
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [AMD-High-Sierra-XNU](https://github.com/Shaneee92/AMD-High-Sierra-XNU) - AMD CPU Support for macOS High Sierra
@@ -157,6 +158,7 @@
 
 ## C# # 
 
+- [metroframework-modern-ui](https://github.com/dennismagno/metroframework-modern-ui) - My humble attempt to bring the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications.
 - [SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 - [mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
@@ -428,6 +430,7 @@
 
 ## Others 
 
+- [nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) - Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - :pill: Curated list of falsehoods programmers believe in.
 - [freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
@@ -477,6 +480,7 @@
 
 ## Python 
 
+- [glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
 - [gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) - Python implementation of 30-seconds-of-code
 - [AmbroBot](https://github.com/Ambro17/AmbroBot) - Telegram bot to suit my needs
@@ -596,7 +600,7 @@
 
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [sonic-pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone
-- [asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.
+- [asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [chromebrew](https://github.com/skycocker/chromebrew) - Package manager for Chrome OS
@@ -618,6 +622,7 @@
 
 ## Shell 
 
+- [whatshack](https://github.com/thelinuxchoice/whatshack) - Script to generate Android App to get all WhatsApp media (images, audios, videos)
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
