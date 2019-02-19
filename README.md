@@ -50,6 +50,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Swift](#swift)
+  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Yacc](#yacc)
@@ -643,6 +644,10 @@
 - [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project
 - [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
+
+## TeX 
+
+- [Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
 ## TypeScript 
 
