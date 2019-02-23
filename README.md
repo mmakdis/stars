@@ -206,6 +206,7 @@
 
 ## C++ 
 
+- [CPP-3D-Game-Tutorial-Series](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series) - This repository contains all the code relative to the video tutorials of the YouTube channel about making of a 3D Game in C++ from scratch
 - [simdjson](https://github.com/lemire/simdjson) - Parsing gigabytes of JSON per second
 - [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher) - A Fractal Physics Game
