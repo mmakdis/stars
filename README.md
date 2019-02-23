@@ -78,6 +78,7 @@
 
 ## C 
 
+- [meltdown](https://github.com/IAIK/meltdown) - This repository contains several applications, demonstrating the Meltdown bug.
 - [write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it.
 - [greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
 - [exengine](https://github.com/exezin/exengine) - A C99 3D game engine
@@ -354,6 +355,7 @@
 
 ## JavaScript 
 
+- [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [ikonate](https://github.com/mikolajdobrucki/ikonate) - fully customisable & accessible vector icons
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
@@ -485,6 +487,7 @@
 
 ## Python 
 
+- [forbiddenfruit](https://github.com/clarete/forbiddenfruit) - Patch built-in python objects
 - [glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
 - [gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) - Python implementation of 30-seconds-of-code
