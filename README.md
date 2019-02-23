@@ -78,6 +78,7 @@
 
 ## C 
 
+- [write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it.
 - [greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
 - [exengine](https://github.com/exezin/exengine) - A C99 3D game engine
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
@@ -159,6 +160,8 @@
 
 ## C# # 
 
+- [wpftoolkit](https://github.com/xceedsoftware/wpftoolkit) - All the controls missing in WPF. Over 1 million downloads.
+- [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
 - [metroframework-modern-ui](https://github.com/dennismagno/metroframework-modern-ui) - My humble attempt to bring the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications.
 - [SyncTrayzor](https://github.com/canton7/SyncTrayzor) - Windows tray utility / filesystem watcher / launcher for Syncthing
 - [mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
@@ -202,6 +205,7 @@
 
 ## C++ 
 
+- [simdjson](https://github.com/lemire/simdjson) - Parsing gigabytes of JSON per second
 - [NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher) - A Fractal Physics Game
 - [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
@@ -443,7 +447,7 @@
 - [awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
 - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
 - [open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
-- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - :fire: This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
+- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - :fire: A practical guide to advanced Linux security compliant with OpenSCAP - PCI-DSS/C2S/CIS.
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :star: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
@@ -453,7 +457,7 @@
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [awesome-code-reading](https://github.com/CodeReaderMe/awesome-code-reading) - A curated list of high-quality codebases to read and study. Read more code!
-- [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [perspectiveapi](https://github.com/conversationai/perspectiveapi) - Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation.
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
