@@ -314,6 +314,7 @@
 
 ## Go 
 
+- [ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang
 - [thanos](https://github.com/improbable-eng/thanos) - Highly available Prometheus setup with long term storage capabilities.
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
@@ -450,8 +451,8 @@
 - [awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
 - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
 - [open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
-- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - :fire: A practical guide to advanced Linux security compliant with OpenSCAP - PCI-DSS/C2S/CIS.
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :star: A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
+- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - :fire: A practical hardening guide to advanced Linux security. OpenSCAP - C2S/CIS, STIG.
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :star: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
@@ -659,6 +660,7 @@
 
 ## TypeScript 
 
+- [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [pathfinding-lab](https://github.com/rvhuang/pathfinding-lab) - Run, test and compare all algorithms and heuristic functions
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
