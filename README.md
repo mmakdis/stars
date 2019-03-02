@@ -79,6 +79,7 @@
 
 ## C 
 
+- [clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [meltdown](https://github.com/IAIK/meltdown) - This repository contains several applications, demonstrating the Meltdown bug.
 - [write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it.
 - [greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
@@ -207,6 +208,7 @@
 
 ## C++ 
 
+- [Chaos-Equations](https://github.com/HackerPoet/Chaos-Equations) - Simple mathematical art
 - [dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based D3D11 and D3D10 implementation for Linux / Wine
 - [opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
 - [CPP-3D-Game-Tutorial-Series](https://github.com/PardCode/CPP-3D-Game-Tutorial-Series) - This repository contains all the code relative to the video tutorials of the YouTube channel about making of a 3D Game in C++ from scratch
@@ -257,6 +259,7 @@
 
 ## CSS 
 
+- [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [devicon](https://github.com/konpa/devicon) - Set of icons representing programming languages, designing & development tools
 - [aesthetic-css](https://github.com/torch2424/aesthetic-css) - A vaporwave CSS framework
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -380,7 +383,7 @@
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
 - [storybook](https://github.com/storybooks/storybook) - UI component dev & test: React, React Native, Vue, Angular, Ember & more!
 - [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
-- [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to serverless API (support SPA!)
+- [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API (serverless and support SPA!)
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
@@ -468,7 +471,7 @@
 - [awesome-code-reading](https://github.com/CodeReaderMe/awesome-code-reading) - A curated list of high-quality codebases to read and study. Read more code!
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [perspectiveapi](https://github.com/conversationai/perspectiveapi) - Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation.
+- [perspectiveapi](https://github.com/conversationai/perspectiveapi) - Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation. For support, see: https://support.perspectiveapi.com/
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [void-packages](https://github.com/voidlinux/void-packages) - The XBPS source packages collection
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
@@ -494,6 +497,8 @@
 
 ## Python 
 
+- [syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
+- [SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [forbiddenfruit](https://github.com/clarete/forbiddenfruit) - Patch built-in python objects
 - [glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
