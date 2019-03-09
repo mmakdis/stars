@@ -79,6 +79,9 @@
 
 ## C 
 
+- [openpilot](https://github.com/commaai/openpilot) - open source driving agent
+- [qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
+- [Box2D](https://github.com/erincatto/Box2D) - Box2D is a 2D physics engine for games
 - [clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [meltdown](https://github.com/IAIK/meltdown) - This repository contains several applications, demonstrating the Meltdown bug.
 - [write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it.
@@ -163,6 +166,14 @@
 
 ## C# # 
 
+- [AspNetCore](https://github.com/aspnet/AspNetCore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+- [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
+- [Costura](https://github.com/Fody/Costura) - Embed references as resources
+- [SettingsPlugin](https://github.com/jamesmontemagno/SettingsPlugin) - Read and Write Settings Plugin for Xamarin and Windows
+- [jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
+- [AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
+- [MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
+- [Eto](https://github.com/picoe/Eto) - Cross platform GUI framework for desktop and mobile applications in .NET
 - [wpftoolkit](https://github.com/xceedsoftware/wpftoolkit) - All the controls missing in WPF. Over 1 million downloads.
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
 - [metroframework-modern-ui](https://github.com/dennismagno/metroframework-modern-ui) - My humble attempt to bring the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications.
@@ -208,6 +219,12 @@
 
 ## C++ 
 
+- [SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
+- [MiDispositivoMIDI_V3](https://github.com/Bananut-Electronics/MiDispositivoMIDI_V3) - Open source Arduino MIDI controller.
+- [calculator](https://github.com/Microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
+- [ldpl](https://github.com/Lartu/ldpl) - LDPL 19 programming language interpreter
+- [pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [Chaos-Equations](https://github.com/HackerPoet/Chaos-Equations) - Simple mathematical art
 - [dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based D3D11 and D3D10 implementation for Linux / Wine
 - [opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
@@ -263,7 +280,7 @@
 - [devicon](https://github.com/konpa/devicon) - Set of icons representing programming languages, designing & development tools
 - [aesthetic-css](https://github.com/torch2424/aesthetic-css) - A vaporwave CSS framework
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [lovelace-website](https://github.com/project-lovelace/lovelace-website) - Server-side source code for the Project Lovelace website.
+- [lovelace-website](https://github.com/project-lovelace/lovelace-website) - 🏛️ Server-side source code for the Project Lovelace website.
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: A flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios.
 
 ## Clojure 
@@ -320,6 +337,8 @@
 
 ## Go 
 
+- [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library in Go
+- [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang
 - [thanos](https://github.com/improbable-eng/thanos) - Highly available Prometheus setup with long term storage capabilities.
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
@@ -363,12 +382,13 @@
 
 ## JavaScript 
 
+- [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
+- [blockrain.js](https://github.com/Aerolab/blockrain.js) - HTML5 Tetris Game for jQuery
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [ikonate](https://github.com/mikolajdobrucki/ikonate) - fully customisable & accessible vector icons
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [marktext](https://github.com/marktext/marktext) - 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [live-editor](https://github.com/Khan/live-editor) - A browser-based live coding environment.
 - [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
@@ -446,6 +466,8 @@
 
 ## Others 
 
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+- [python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) - Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
@@ -459,8 +481,8 @@
 - [awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
 - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
 - [open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
-- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - :fire: A practical hardening guide to advanced Linux security - OpenSCAP (C2S/CIS, STIG). Work in progress.
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - :star: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - A practical hardening guide to advanced Linux security - OpenSCAP (C2S/CIS, STIG). Work in progress.
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
@@ -497,6 +519,10 @@
 
 ## Python 
 
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies
+- [fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
+- [ironpython2](https://github.com/IronLanguages/ironpython2) - Implementation of the Python programming language for .NET Framework; built on top of the Dynamic Language Runtime (DLR).
+- [universe](https://github.com/openai/universe) - Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
 - [syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [SASM](https://github.com/Dman95/SASM) - SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages
 - [baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
@@ -526,7 +552,6 @@
 - [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
-- [ironpython2](https://github.com/IronLanguages/ironpython2) - Implementation of the Python programming language for .NET Framework; built on top of the Dynamic Language Runtime (DLR).
 - [ironpython3](https://github.com/IronLanguages/ironpython3) - DO NOT USE. Implementation of Python 3.x for .NET Framework that is built on top of the Dynamic Language Runtime.
 - [anki](https://github.com/dae/anki) - Anki for desktop computers
 - [pytodoist](https://github.com/Garee/pytodoist) - ✅ Use Todoist with Python.
@@ -534,7 +559,7 @@
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [PyPDF2](https://github.com/mstamy2/PyPDF2) - A utility to read and write PDFs with Python
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
-- [lovelace-engine](https://github.com/project-lovelace/lovelace-engine) - Automated testing of code submissions for computational science education.
+- [lovelace-engine](https://github.com/project-lovelace/lovelace-engine) - ⚙️ Automated testing of code submissions for computational science education.
 - [CoderChef-Kitchen](https://github.com/DivyaGodayal/CoderChef-Kitchen) - The official repository for our programming kitchen which consists of 50+ delicious programming recipes having all the interesting ingredients ranging from dynamic programming, graph theory, linked lists and much more. All the articles contain beautiful images and some gif/video at times to help clear important concepts.
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
@@ -675,6 +700,7 @@
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [pathfinding-lab](https://github.com/rvhuang/pathfinding-lab) - Run, test and compare all algorithms and heuristic functions
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
+- [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
