@@ -219,11 +219,12 @@
 
 ## C++ 
 
+- [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 - [MiDispositivoMIDI_V3](https://github.com/Bananut-Electronics/MiDispositivoMIDI_V3) - Open source Arduino MIDI controller.
 - [calculator](https://github.com/Microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
-- [ldpl](https://github.com/Lartu/ldpl) - LDPL 19 programming language interpreter
+- [ldpl](https://github.com/Lartu/ldpl) - LDPL 19 Programming Language Compiler
 - [pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [Chaos-Equations](https://github.com/HackerPoet/Chaos-Equations) - Simple mathematical art
 - [dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based D3D11 and D3D10 implementation for Linux / Wine
@@ -352,6 +353,7 @@
 
 ## HTML 
 
+- [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - A beautifully designed WYSIWYG HTML Editor based on HTML5.
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
@@ -382,6 +384,7 @@
 
 ## JavaScript 
 
+- [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplin.cozic.net/
 - [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
 - [blockrain.js](https://github.com/Aerolab/blockrain.js) - HTML5 Tetris Game for jQuery
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -404,7 +407,7 @@
 - [storybook](https://github.com/storybooks/storybook) - UI component dev & test: React, React Native, Vue, Angular, Ember & more!
 - [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
 - [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API (serverless and support SPA!)
-- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
+- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer (Wow That's Fantastic)🔥
 - [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
 - [engine.io](https://github.com/socketio/engine.io) - 
@@ -481,7 +484,7 @@
 - [awesome-music](https://github.com/ciconia/awesome-music) - Awesome Music Projects
 - [queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) - Queueing theory: an introduction for software development
 - [open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
-- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - A practical hardening guide to advanced Linux security - OpenSCAP (C2S/CIS, STIG). Work in progress.
+- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
@@ -594,7 +597,7 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [PRET](https://github.com/RUB-NDS/PRET) - Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.
 - [Python](https://github.com/geekcomputers/Python) - My Python Examples
-- [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [HTML-as-programming-language](https://github.com/HTML-as-programming-language/HTML-as-programming-language) - We aim to build a programming language that looks like HTML
 - [zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [click](https://github.com/pallets/click) - Python composable command line interface toolkit
