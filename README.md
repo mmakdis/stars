@@ -224,7 +224,7 @@
 - [MiDispositivoMIDI_V3](https://github.com/Bananut-Electronics/MiDispositivoMIDI_V3) - Open source Arduino MIDI controller.
 - [calculator](https://github.com/Microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
-- [ldpl](https://github.com/Lartu/ldpl) - LDPL 19 Programming Language Compiler
+- [ldpl](https://github.com/Lartu/ldpl) - Portable, COBOL inspired, compiled programming language, designed to be expressive, fast, readable and easy to learn.
 - [pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [Chaos-Equations](https://github.com/HackerPoet/Chaos-Equations) - Simple mathematical art
 - [dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based D3D11 and D3D10 implementation for Linux / Wine
@@ -356,7 +356,6 @@
 - [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - A beautifully designed WYSIWYG HTML Editor based on HTML5.
-- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [dotnet](https://github.com/Microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
@@ -522,6 +521,7 @@
 
 ## Python 
 
+- [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. ⚡️
 - [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies
 - [fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
 - [ironpython2](https://github.com/IronLanguages/ironpython2) - Implementation of the Python programming language for .NET Framework; built on top of the Dynamic Language Runtime (DLR).
@@ -709,6 +709,7 @@
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 - [vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
+- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 
