@@ -79,6 +79,9 @@
 
 ## C 
 
+- [AVA](https://github.com/r-lyeh/AVA) - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
+- [C_Interpreter](https://github.com/Pconst167/C_Interpreter) - A C interpreter with matrices and pointers
+- [checkedc](https://github.com/Microsoft/checkedc) - Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses.  This repo has a wiki for Checked C, sample code, the specification, and test code.
 - [openpilot](https://github.com/commaai/openpilot) - open source driving agent
 - [qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [Box2D](https://github.com/erincatto/Box2D) - Box2D is a 2D physics engine for games
@@ -147,7 +150,7 @@
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [telebot](https://github.com/smartnode/telebot) - Telegram Bot API in C
-- [nnn](https://github.com/jarun/nnn) - :dolphin: Tiny, lightning fast, feature-packed file manager
+- [nnn](https://github.com/jarun/nnn) - :dolphin: Snappy file manager for the ninjas
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [DragonFlyBSD](https://github.com/DragonFlyBSD/DragonFlyBSD) - DragonFly BSD System Source Repository (read-only mirror)
@@ -166,6 +169,10 @@
 
 ## C# # 
 
+- [RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core
+- [Towel](https://github.com/ZacharyPatten/Towel) - Throw in the towel.
+- [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
+- [DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
 - [AspNetCore](https://github.com/aspnet/AspNetCore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
 - [Costura](https://github.com/Fody/Costura) - Embed references as resources
@@ -354,6 +361,7 @@
 ## HTML 
 
 - [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
+- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - A beautifully designed WYSIWYG HTML Editor based on HTML5.
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
@@ -403,9 +411,9 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
-- [storybook](https://github.com/storybooks/storybook) - UI component dev & test: React, React Native, Vue, Angular, Ember & more!
+- [storybook](https://github.com/storybooks/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember & more!
 - [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
-- [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API (serverless and support SPA!)
+- [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer (Wow That's Fantastic)🔥
 - [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
@@ -422,7 +430,7 @@
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Caret](https://github.com/thomaswilburn/Caret) - A sublime text editor for Chrome OS
-- [Ghost](https://github.com/TryGhost/Ghost) - The platform for professional publishers
+- [Ghost](https://github.com/TryGhost/Ghost) - 👻 The headless Node.js CMS for professional publishing
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier library for NodeJS
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
@@ -442,6 +450,7 @@
 
 ## Jupyter Notebook 
 
+- [Virgilio](https://github.com/clone95/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
 
 ## Lua 
@@ -468,9 +477,9 @@
 
 ## Others 
 
+- [SPADE](https://github.com/NVlabs/SPADE) - 
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
-- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) - Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - :pill: Curated list of falsehoods programmers believe in.
@@ -491,7 +500,6 @@
 - [observatory](https://github.com/jhermann/observatory) - :octocat: :star2: Awesome List of my own!
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
-- [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [awesome-code-reading](https://github.com/CodeReaderMe/awesome-code-reading) - A curated list of high-quality codebases to read and study. Read more code!
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
@@ -521,8 +529,12 @@
 
 ## Python 
 
+- [pix2pixHD](https://github.com/NVIDIA/pix2pixHD) - Synthesizing and manipulating 2048x1024 images with conditional GANs
+- [Skribbl.io-Bot](https://github.com/alekxeyuk/Skribbl.io-Bot) - My try at creating fully automated game bot.
+- [iGAN](https://github.com/junyanz/iGAN) - Interactive Image Generation via Generative Adversarial Networks
+- [neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. ⚡️
-- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go) with zero dependencies
 - [fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
 - [ironpython2](https://github.com/IronLanguages/ironpython2) - Implementation of the Python programming language for .NET Framework; built on top of the Dynamic Language Runtime (DLR).
 - [universe](https://github.com/openai/universe) - Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
@@ -626,7 +638,7 @@
 - [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system
 - [stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
 - [reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
-- [mypy](https://github.com/python/mypy) - Optional static typing for Python 2 and 3 (PEP 484)
+- [mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo) - An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016), details of which can be found on their website https://deepmind.com/publications.html.
 - [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
@@ -689,6 +701,7 @@
 
 ## Swift 
 
+- [fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
 - [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project
 - [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
