@@ -337,7 +337,7 @@
 
 ## F# # 
 
-- [Bolero](https://github.com/fsbolero/Bolero) - F# on WebAssembly
+- [Bolero](https://github.com/fsbolero/Bolero) - Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities, and more.
 
 ## GDScript 
 
@@ -384,6 +384,7 @@
 
 ## Java 
 
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 - [TinyFerdinand](https://github.com/dribbleware1/TinyFerdinand) - A simple java game im working on! follow along with progress here:
 - [antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
@@ -391,6 +392,7 @@
 
 ## JavaScript 
 
+- [WBOT](https://github.com/vasani-arpit/WBOT) - A simple BOT for web.whatsapp
 - [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplin.cozic.net/
 - [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
 - [blockrain.js](https://github.com/Aerolab/blockrain.js) - HTML5 Tetris Game for jQuery
@@ -414,7 +416,7 @@
 - [storybook](https://github.com/storybooks/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember & more!
 - [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
 - [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
-- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer (Wow That's Fantastic)🔥
+- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
 - [engine.io](https://github.com/socketio/engine.io) - 
@@ -478,7 +480,6 @@
 ## Others 
 
 - [SPADE](https://github.com/NVlabs/SPADE) - 
-- [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
 - [nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) - Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
@@ -552,7 +553,7 @@
 - [Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [twitchslam](https://github.com/geohot/twitchslam) - A toy implementation of monocular SLAM written while livestreaming
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
-- [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS detection suite.
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) - Open Source Neural Machine Translation in PyTorch
 - [Facebom](https://github.com/Oseid/Facebom) - A Python script for Brute Force Attack On Facebook Account :)
 - [ciso8601](https://github.com/closeio/ciso8601) - Fast ISO8601 date time parser for Python written in C
@@ -659,6 +660,7 @@
 
 ## Ruby 
 
+- [ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [sonic-pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone
 - [asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
@@ -701,6 +703,7 @@
 
 ## Swift 
 
+- [DDAnimatedSwitch](https://github.com/d-dotsenko/DDAnimatedSwitch) - 👍🏼 Awesome animated switch
 - [fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
 - [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project
 - [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
