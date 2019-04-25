@@ -9,7 +9,6 @@
   - [ActionScript](#actionscript)
   - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
-  - [Bro](#bro)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -73,12 +72,12 @@
 
 - [in-line-calculator](https://github.com/davebrny/in-line-calculator) - 📟 an interface-less calculator for Windows
 
-## Bro 
-
-- [zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-
 ## C 
 
+- [gb-studio](https://github.com/chrismaltby/gb-studio) - Visual retro game maker
+- [muon](https://github.com/nickmqb/muon) - Modern low-level programming language
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 - [AVA](https://github.com/r-lyeh/AVA) - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
 - [C_Interpreter](https://github.com/Pconst167/C_Interpreter) - A C interpreter with matrices and pointers
 - [checkedc](https://github.com/Microsoft/checkedc) - Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses.  This repo has a wiki for Checked C, sample code, the specification, and test code.
@@ -169,6 +168,12 @@
 
 ## C# # 
 
+- [mui](https://github.com/firstfloorsoftware/mui) - Modern UI for WPF
+- [DarkUI](https://github.com/RobinPerris/DarkUI) - Dark themed control and docking library for .NET WinForms.
+- [iced](https://github.com/0xd4d/iced) - x86/x64 instruction decoder, encoder, disassembler
+- [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
+- [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
+- [CsprojToVs2017](https://github.com/hvanbakel/CsprojToVs2017) - Tooling for converting pre 2017 project to the new Visual Studio 2017 format.
 - [RazorLight](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core
 - [Towel](https://github.com/ZacharyPatten/Towel) - Throw in the towel.
 - [RoslynPad](https://github.com/aelij/RoslynPad) - A cross-platform C# editor based on Roslyn and AvalonEdit
@@ -226,6 +231,8 @@
 
 ## C++ 
 
+- [skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [BlingFire](https://github.com/Microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 - [MiDispositivoMIDI_V3](https://github.com/Bananut-Electronics/MiDispositivoMIDI_V3) - Open source Arduino MIDI controller.
@@ -245,6 +252,7 @@
 - [fltk](https://github.com/fltk/fltk) - FLTK - Fast Light Tool Kit - https://github.com/fltk/fltk - cross platform GUI development
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [atom](https://github.com/nucleic/atom) - Memory efficient Python objects
+- [zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 - [math](https://github.com/stan-dev/math) - The Stan Math Library is a C++, reverse-mode automatic differentiation library designed to be usable, extensive and extensible, efficient, scalable, stable, portable, and redistributable in order to facilitate the construction and utilization of algorithms that utilize derivatives.
@@ -345,6 +353,7 @@
 
 ## Go 
 
+- [sshcode](https://github.com/codercom/sshcode) - Run VS Code on any server over SSH.
 - [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library in Go
 - [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang
@@ -392,15 +401,18 @@
 
 ## JavaScript 
 
+- [tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
+- [preact](https://github.com/developit/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 - [WBOT](https://github.com/vasani-arpit/WBOT) - A simple BOT for web.whatsapp
-- [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplin.cozic.net/
+- [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
 - [blockrain.js](https://github.com/Aerolab/blockrain.js) - HTML5 Tetris Game for jQuery
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [ikonate](https://github.com/mikolajdobrucki/ikonate) - fully customisable & accessible vector icons
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
-- [marktext](https://github.com/marktext/marktext) - 📝Next generation markdown editor, running on platforms of MacOS Windows and Linux.
+- [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [live-editor](https://github.com/Khan/live-editor) - A browser-based live coding environment.
 - [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
@@ -413,7 +425,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
-- [storybook](https://github.com/storybooks/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember & more!
+- [storybook](https://github.com/storybooks/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
 - [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
@@ -479,7 +491,7 @@
 
 ## Others 
 
-- [SPADE](https://github.com/NVlabs/SPADE) - 
+- [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
 - [nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) - Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
@@ -506,7 +518,6 @@
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [perspectiveapi](https://github.com/conversationai/perspectiveapi) - Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation. For support, see: https://support.perspectiveapi.com/
 - [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
-- [void-packages](https://github.com/voidlinux/void-packages) - The XBPS source packages collection
 - [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -530,7 +541,10 @@
 
 ## Python 
 
+- [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
+- [ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [pix2pixHD](https://github.com/NVIDIA/pix2pixHD) - Synthesizing and manipulating 2048x1024 images with conditional GANs
+- [SPADE](https://github.com/NVlabs/SPADE) - Semantic Image Synthesis with SPADE
 - [Skribbl.io-Bot](https://github.com/alekxeyuk/Skribbl.io-Bot) - My try at creating fully automated game bot.
 - [iGAN](https://github.com/junyanz/iGAN) - Interactive Image Generation via Generative Adversarial Networks
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)
@@ -647,7 +661,7 @@
 - [Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 - [cpython](https://github.com/python/cpython) - The Python programming language
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
-- [yowsup](https://github.com/tgalal/yowsup) - The python WhatsApp library
+- [yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
 ## QML 
@@ -672,6 +686,7 @@
 
 ## Rust 
 
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programmings tools
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [XORcism](https://github.com/BenH11235/XORcism) - Command-line tool that breaks rotating-xor (and similar) ciphertexts
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
@@ -715,6 +730,8 @@
 
 ## TypeScript 
 
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
+- [BosqueLanguage](https://github.com/Microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [pathfinding-lab](https://github.com/rvhuang/pathfinding-lab) - Run, test and compare all algorithms and heuristic functions
