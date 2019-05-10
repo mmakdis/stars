@@ -31,6 +31,7 @@
   - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [Makefile](#makefile)
@@ -43,6 +44,7 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [QML](#qml)
+  - [Red](#red)
   - [Ren'Py](#ren'py)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -74,13 +76,21 @@
 
 ## C 
 
+- [webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
+- [smarchWatch_PUBLIC](https://github.com/S-March/smarchWatch_PUBLIC) - 
+- [Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
+- [darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
+- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+- [matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
+- [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
+- [samba](https://github.com/samba-team/samba) - https://gitlab.com/samba-team/samba is the Official GitLab mirror of https://git.samba.org/samba.git   --   Merge requests should be made on GitLab (not on GitHub)
 - [gb-studio](https://github.com/chrismaltby/gb-studio) - Visual retro game maker
 - [muon](https://github.com/nickmqb/muon) - Modern low-level programming language
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 - [AVA](https://github.com/r-lyeh/AVA) - A tiny unlicensed 3D game engine in C; with C++ and Lua interfaces. Written in 32 random  ̷d̷a̷y̷s̷  m̷o̷n̷t̷h̷s̷  years.
 - [C_Interpreter](https://github.com/Pconst167/C_Interpreter) - A C interpreter with matrices and pointers
-- [checkedc](https://github.com/Microsoft/checkedc) - Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses.  This repo has a wiki for Checked C, sample code, the specification, and test code.
+- [checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses.  This repo has a wiki for Checked C, sample code, the specification, and test code.
 - [openpilot](https://github.com/commaai/openpilot) - open source driving agent
 - [qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [Box2D](https://github.com/erincatto/Box2D) - Box2D is a 2D physics engine for games
@@ -149,7 +159,7 @@
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [telebot](https://github.com/smartnode/telebot) - Telegram Bot API in C
-- [nnn](https://github.com/jarun/nnn) - :dolphin: Snappy file manager for the ninjas
+- [nnn](https://github.com/jarun/nnn) - :dolphin: Snappy terminal file manager for the ninjas
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [DragonFlyBSD](https://github.com/DragonFlyBSD/DragonFlyBSD) - DragonFly BSD System Source Repository (read-only mirror)
@@ -168,6 +178,10 @@
 
 ## C# # 
 
+- [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - 
+- [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+- [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Xamarin.Forms Official Home
+- [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a Metro or Modern UI for their own WPF applications with minimal effort.
 - [mui](https://github.com/firstfloorsoftware/mui) - Modern UI for WPF
 - [DarkUI](https://github.com/RobinPerris/DarkUI) - Dark themed control and docking library for .NET WinForms.
 - [iced](https://github.com/0xd4d/iced) - x86/x64 instruction decoder, encoder, disassembler
@@ -202,7 +216,7 @@
 - [SOSCSRPG](https://github.com/ScottLilly/SOSCSRPG) - Scott's Open Source C# RPG
 - [pcre-net](https://github.com/ltrzesniewski/pcre-net) - PCRE.NET - Perl Compatible Regular Expressions for .NET
 - [Animator](https://github.com/PavelTorgashov/Animator) - The component Animator allows you to animate any controls on your WinForms.
-- [Quantum](https://github.com/Microsoft/Quantum) - Microsoft Quantum Development Kit Samples
+- [Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [Irony](https://github.com/IronyProject/Irony) - Irony — .NET Language Implementation Kit
 - [mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 - [xwt](https://github.com/mono/xwt) - A cross-platform UI toolkit for creating desktop applications with .NET and Mono
@@ -218,7 +232,7 @@
 - [csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
-- [microsoft-ui-xaml](https://github.com/Microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+- [microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET Core UI framework for building Windows desktop applications.
 - [Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 - [ConsoleGameEngine](https://github.com/ollelogdahl/ConsoleGameEngine) - .NET Console Graphics Engine
@@ -231,12 +245,15 @@
 
 ## C++ 
 
+- [tinykaboom](https://github.com/ssloy/tinykaboom) - A brief computer graphics / rendering course
+- [Terminal](https://github.com/microsoft/Terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!
+- [that_terminal](https://github.com/bisqwit/that_terminal) - It’s that terminal! This project was mostly created (or started) in a livestream series.
 - [skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
-- [BlingFire](https://github.com/Microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
+- [BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 - [MiDispositivoMIDI_V3](https://github.com/Bananut-Electronics/MiDispositivoMIDI_V3) - Open source Arduino MIDI controller.
-- [calculator](https://github.com/Microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 - [ldpl](https://github.com/Lartu/ldpl) - Portable, COBOL inspired, compiled programming language, designed to be expressive, fast, readable and easy to learn.
 - [pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
@@ -345,6 +362,7 @@
 
 ## F# # 
 
+- [visualfsharp](https://github.com/microsoft/visualfsharp) - The F# compiler, FSharp.Core library, and tools for F#
 - [Bolero](https://github.com/fsbolero/Bolero) - Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities, and more.
 
 ## GDScript 
@@ -353,7 +371,7 @@
 
 ## Go 
 
-- [sshcode](https://github.com/codercom/sshcode) - Run VS Code on any server over SSH.
+- [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library in Go
 - [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang
@@ -372,9 +390,9 @@
 - [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
-- [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - A beautifully designed WYSIWYG HTML Editor based on HTML5.
+- [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
-- [dotnet](https://github.com/Microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
+- [dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [LinkOfDeath](https://github.com/DVLP/LinkOfDeath) - There's no explanation why this thing was created. "Why not?" maybe.
 
@@ -401,22 +419,23 @@
 
 ## JavaScript 
 
+- [plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 - [preact](https://github.com/developit/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
-- [WBOT](https://github.com/vasani-arpit/WBOT) - A simple BOT for web.whatsapp
+- [WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp
 - [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
 - [blockrain.js](https://github.com/Aerolab/blockrain.js) - HTML5 Tetris Game for jQuery
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [ikonate](https://github.com/mikolajdobrucki/ikonate) - fully customisable & accessible vector icons
+- [ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [live-editor](https://github.com/Khan/live-editor) - A browser-based live coding environment.
 - [perseus](https://github.com/Khan/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
-- [monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
+- [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [streama](https://github.com/streamaserver/streama) - Self hosted streaming media server.
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
@@ -462,6 +481,10 @@
 - [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 
+## Julia 
+
+- [julia](https://github.com/JuliaLang/julia) - The Julia Language: A fresh approach to technical computing.
+
 ## Jupyter Notebook 
 
 - [Virgilio](https://github.com/clone95/Virgilio) - Your new Mentor for Data Science E-Learning.
@@ -491,6 +514,9 @@
 
 ## Others 
 
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
+- [unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
 - [nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) - Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier
@@ -508,7 +534,7 @@
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [spec](https://github.com/ulid/spec) - The canonical spec for ulid
-- [WSL](https://github.com/Microsoft/WSL) - Issues found on WSL
+- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [observatory](https://github.com/jhermann/observatory) - :octocat: :star2: Awesome List of my own!
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -541,6 +567,8 @@
 
 ## Python 
 
+- [search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for the search feature
+- [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply.  Python 2.7 & 3 Support. 100+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers .
 - [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [pix2pixHD](https://github.com/NVIDIA/pix2pixHD) - Synthesizing and manipulating 2048x1024 images with conditional GANs
@@ -573,7 +601,7 @@
 - [ciso8601](https://github.com/closeio/ciso8601) - Fast ISO8601 date time parser for Python written in C
 - [invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.
-- [trio](https://github.com/python-trio/trio) - Trio – Pythonic async I/O for humans and snake people 🐍
+- [trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
@@ -598,7 +626,7 @@
 - [inter](https://github.com/rsms/inter) - The Inter font family
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
 - [Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, and 3.7.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
-- [black](https://github.com/ambv/black) - The uncompromising Python code formatter
+- [black](https://github.com/python/black) - The uncompromising Python code formatter
 - [logpy](https://github.com/logpy/logpy) - Logic Programming in Python
 - [Akilang](https://github.com/syegulalp/Akilang) - A compiler for a simple language, built with Python and LLVM
 - [interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
@@ -666,7 +694,12 @@
 
 ## QML 
 
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [qml-material](https://github.com/papyros/qml-material) - :book: Material Design implemented in QtQuick
+
+## Red 
+
+- [red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
 
 ## Ren'Py 
 
@@ -674,6 +707,7 @@
 
 ## Ruby 
 
+- [Eternalblue-Doublepulsar-Metasploit](https://github.com/ElevenPaths/Eternalblue-Doublepulsar-Metasploit) - Module of Metasploit to exploit the vulnerability Eternalblue-Doublepulsar.
 - [ruby](https://github.com/ruby/ruby) - The Ruby Programming Language [mirror]
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [sonic-pi](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone
@@ -686,6 +720,7 @@
 
 ## Rust 
 
+- [anne-key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programmings tools
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [XORcism](https://github.com/BenH11235/XORcism) - Command-line tool that breaks rotating-xor (and similar) ciphertexts
@@ -730,8 +765,9 @@
 
 ## TypeScript 
 
+- [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
-- [BosqueLanguage](https://github.com/Microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
+- [BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [pathfinding-lab](https://github.com/rvhuang/pathfinding-lab) - Run, test and compare all algorithms and heuristic functions
@@ -744,10 +780,11 @@
 - [vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
-- [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
+- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## Vim script 
 
+- [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [vim](https://github.com/vim/vim) - The official Vim repository
 
 ## WebAssembly 
