@@ -26,6 +26,7 @@
   - [F#](#f#)
   - [GDScript](#gdscript)
   - [Go](#go)
+  - [Groovy](#groovy)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
@@ -76,6 +77,8 @@
 
 ## C 
 
+- [civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
+- [cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
 - [webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
 - [smarchWatch_PUBLIC](https://github.com/S-March/smarchWatch_PUBLIC) - 
 - [Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
@@ -128,7 +131,7 @@
 - [libleak](https://github.com/WuBingzheng/libleak) - detect memory leak by LD_PRELOAD, without changing the target program
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
-- [RediSearch](https://github.com/RedisLabsModules/RediSearch) - FullText Search and Secondary Index module for Redis
+- [RediSearch](https://github.com/RediSearch/RediSearch) - FullText Search and Secondary Index module for Redis
 - [kazmath](https://github.com/Kazade/kazmath) - A C math library targeted at games
 - [mathc](https://github.com/felselva/mathc) - Pure C math library for 2D and 3D programming.
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
@@ -178,6 +181,7 @@
 
 ## C# # 
 
+- [greenshot](https://github.com/greenshot/greenshot) - Greenshot repository, use our JIRA for none development / source related bugs: https://greenshot.atlassian.net or look for information on:
 - [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - 
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Xamarin.Forms Official Home
@@ -371,6 +375,9 @@
 
 ## Go 
 
+- [gxui](https://github.com/google/gxui) - An experimental Go cross platform UI library.
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [app](https://github.com/maxence-charriere/app) - A WebAssembly framework to build GUI with Go, HTML and CSS.
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library in Go
 - [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -384,6 +391,10 @@
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [go](https://github.com/golang/go) - The Go programming language
+
+## Groovy 
+
+- [gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 
 ## HTML 
 
@@ -419,11 +430,12 @@
 
 ## JavaScript 
 
+- [carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
 - [plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 - [preact](https://github.com/developit/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
-- [WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp
+- [WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp in NodeJS 😜
 - [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
 - [blockrain.js](https://github.com/Aerolab/blockrain.js) - HTML5 Tetris Game for jQuery
@@ -463,7 +475,7 @@
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Caret](https://github.com/thomaswilburn/Caret) - A sublime text editor for Chrome OS
-- [Ghost](https://github.com/TryGhost/Ghost) - 👻 The headless Node.js CMS for professional publishing
+- [Ghost](https://github.com/TryGhost/Ghost) - 👻 The most popular headless Node.js CMS for professional publishing
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier library for NodeJS
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
@@ -567,6 +579,9 @@
 
 ## Python 
 
+- [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+- [jumpcutter](https://github.com/carykh/jumpcutter) - Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
+- [YouTubeCommenter](https://github.com/HackerPoet/YouTubeCommenter) - AI to generate YouTube comments based on video title
 - [search-plugins](https://github.com/qbittorrent/search-plugins) - Search plugins for the search feature
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply.  Python 2.7 & 3 Support. 100+ Demo programs & Cookbook for rapid start. Extensive documentation.  Examples using Machine Learning(GUI, OpenCV Integration,  Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers .
 - [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -657,7 +672,7 @@
 - [zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [tqdm](https://github.com/tqdm/tqdm) - A fast, extensible progress bar for Python and CLI
+- [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
 - [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -789,7 +804,7 @@
 
 ## WebAssembly 
 
-- [assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript to WebAssembly compiler 🚀
+- [assemblyscript](https://github.com/AssemblyScript/assemblyscript) - Definitely not a TypeScript to WebAssembly compiler 🚀
 
 ## Yacc 
 
