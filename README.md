@@ -19,6 +19,7 @@
   - [Crystal](#crystal)
   - [D](#d)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [Eagle](#eagle)
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
@@ -87,7 +88,7 @@
 - [matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
 - [samba](https://github.com/samba-team/samba) - https://gitlab.com/samba-team/samba is the Official GitLab mirror of https://git.samba.org/samba.git   --   Merge requests should be made on GitLab (not on GitHub)
-- [gb-studio](https://github.com/chrismaltby/gb-studio) - Visual retro game maker
+- [gb-studio](https://github.com/chrismaltby/gb-studio) - A free and easy to use retro adventure game creator for your favourite handheld video game system
 - [muon](https://github.com/nickmqb/muon) - Modern low-level programming language
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
@@ -133,7 +134,7 @@
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
 - [RediSearch](https://github.com/RediSearch/RediSearch) - FullText Search and Secondary Index module for Redis
 - [kazmath](https://github.com/Kazade/kazmath) - A C math library targeted at games
-- [mathc](https://github.com/felselva/mathc) - Pure C math library for 2D and 3D programming.
+- [mathc](https://github.com/felselva/mathc) - Pure C math library for 2D and 3D programming. &gt;&gt;I am busy these days, but this library is still maintained and pull requests are welcome&lt;&lt;
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send issues/patches to the Lua mailing list https://www.lua.org/lua-l.html
 - [x48](https://github.com/gwenhael-le-moine/x48) - HP48 calculator emulator (mirror of sourceforge's mirror of berlios)
@@ -162,13 +163,13 @@
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [telebot](https://github.com/smartnode/telebot) - Telegram Bot API in C
-- [nnn](https://github.com/jarun/nnn) - :dolphin: Snappy terminal file manager for the ninjas
+- [nnn](https://github.com/jarun/nnn) - :dolphin: Lean, fast, full-featured file manager with batteries
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [DragonFlyBSD](https://github.com/DragonFlyBSD/DragonFlyBSD) - DragonFly BSD System Source Repository (read-only mirror)
 - [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
-- [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) - This is the official repo for the Jumbo version of John the Ripper. The "bleeding-jumbo" branch (default) is based on 1.8.0-Jumbo-1 (but we are literally several thousands of commits ahead of it).
+- [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) - This is the official repo for John the Ripper, "Jumbo" version. The "bleeding-jumbo" branch is based on 1.9.0-Jumbo-1 which was released on May 14, 2019. An import of the "core" version of john this jumbo was based on (or newer) is found in the "master" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/src/).
 - [thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
 - [dfu-programmer](https://github.com/dfu-programmer/dfu-programmer) - dfu-programmer is a Device Firmware Update based USB programmer for Atmel chips with a USB bootloader
 - [wifi_ducky](https://github.com/spacehuhn/wifi_ducky) - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
@@ -181,6 +182,9 @@
 
 ## C# # 
 
+- [IntelliSenseExtender](https://github.com/Dreamescaper/IntelliSenseExtender) - 
+- [EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore) - Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology
+- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [greenshot](https://github.com/greenshot/greenshot) - Greenshot repository, use our JIRA for none development / source related bugs: https://greenshot.atlassian.net or look for information on:
 - [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - 
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -249,8 +253,11 @@
 
 ## C++ 
 
+- [lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
+- [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
+- [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [tinykaboom](https://github.com/ssloy/tinykaboom) - A brief computer graphics / rendering course
-- [Terminal](https://github.com/microsoft/Terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!
 - [that_terminal](https://github.com/bisqwit/that_terminal) - It’s that terminal! This project was mostly created (or started) in a livestream series.
 - [skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [BlingFire](https://github.com/microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
@@ -292,7 +299,7 @@
 - [toggldesktop](https://github.com/toggl/toggldesktop) - Toggl Desktop app for Windows, Mac and Linux
 - [curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [flashlight](https://github.com/facebookresearch/flashlight) - A C++ standalone library for machine learning
-- [wav2letter](https://github.com/facebookresearch/wav2letter) - Facebook AI Research Automatic Speech Recognition Toolkit
+- [wav2letter](https://github.com/facebookresearch/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [milton](https://github.com/serge-rgb/milton) - An infinite-canvas paint program
 - [aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
@@ -313,6 +320,7 @@
 
 ## CSS 
 
+- [screencat](https://github.com/maxogden/screencat) - :cat2: webrtc screensharing electron app for mac os (Alpha)
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [devicon](https://github.com/konpa/devicon) - Set of icons representing programming languages, designing & development tools
 - [aesthetic-css](https://github.com/torch2424/aesthetic-css) - A vaporwave CSS framework
@@ -346,6 +354,10 @@
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 - [sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more.
 
+## Dockerfile 
+
+- [crystal-book](https://github.com/crystal-lang/crystal-book) - Crystal docs at https://crystal-lang.org/reference
+
 ## Eagle 
 
 - [magspoof](https://github.com/samyk/magspoof) - A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy.
@@ -366,7 +378,7 @@
 
 ## F# # 
 
-- [visualfsharp](https://github.com/microsoft/visualfsharp) - The F# compiler, FSharp.Core library, and tools for F#
+- [fsharp](https://github.com/dotnet/fsharp) - The F# compiler, FSharp.Core library, and tools for F#
 - [Bolero](https://github.com/fsbolero/Bolero) - Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities, and more.
 
 ## GDScript 
@@ -430,10 +442,13 @@
 
 ## JavaScript 
 
+- [kaleidosync](https://github.com/zachwinter/kaleidosync) - An HTML5 Spotify visualizer, powered by the Echo Nest.
+- [soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
+- [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
 - [plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
-- [preact](https://github.com/developit/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 - [WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp in NodeJS 😜
 - [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
@@ -456,7 +471,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
-- [storybook](https://github.com/storybooks/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [storybook](https://github.com/storybookjs/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
 - [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
@@ -499,7 +514,7 @@
 
 ## Jupyter Notebook 
 
-- [Virgilio](https://github.com/clone95/Virgilio) - Your new Mentor for Data Science E-Learning.
+- [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
 
 ## Lua 
@@ -526,6 +541,7 @@
 
 ## Others 
 
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
@@ -567,6 +583,7 @@
 
 ## PHP 
 
+- [WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to https://core.trac.wordpress.org/ instead.
 - [SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 ## Perl 
@@ -579,6 +596,8 @@
 
 ## Python 
 
+- [challenges](https://github.com/pybites/challenges) - PyBites Code Challenges
+- [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [jumpcutter](https://github.com/carykh/jumpcutter) - Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
 - [YouTubeCommenter](https://github.com/HackerPoet/YouTubeCommenter) - AI to generate YouTube comments based on video title
@@ -736,7 +755,7 @@
 ## Rust 
 
 - [anne-key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programmings tools
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [XORcism](https://github.com/BenH11235/XORcism) - Command-line tool that breaks rotating-xor (and similar) ciphertexts
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
@@ -780,6 +799,7 @@
 
 ## TypeScript 
 
+- [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [BosqueLanguage](https://github.com/microsoft/BosqueLanguage) - The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.
