@@ -58,6 +58,7 @@
   - [Vim script](#vim-script)
   - [WebAssembly](#webassembly)
   - [Yacc](#yacc)
+  - [Zeek](#zeek)
 
 ## ANTLR 
 
@@ -154,7 +155,7 @@
 - [flac](https://github.com/xiph/flac) - Free Lossless Audio Codec
 - [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [tlse](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library
-- [helenos](https://github.com/HelenOS/helenos) - A portable microkernel-based multiserver operating system written from scratch. This is the HelenOS mainline repository.
+- [helenos](https://github.com/HelenOS/helenos) - A portable microkernel-based multiserver operating system written from scratch.
 - [kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [COS](https://github.com/CObjectSystem/COS) - C Object System: a framework that brings C to the level of other high level programming languages and beyond
@@ -163,7 +164,7 @@
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [telebot](https://github.com/smartnode/telebot) - Telegram Bot API in C
-- [nnn](https://github.com/jarun/nnn) - :dolphin: Lean, fast, full-featured file manager with batteries
+- [nnn](https://github.com/jarun/nnn) - :dolphin: Lean, fast, zero-config, full-featured file manager with batteries
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [DragonFlyBSD](https://github.com/DragonFlyBSD/DragonFlyBSD) - DragonFly BSD System Source Repository (read-only mirror)
@@ -185,7 +186,7 @@
 - [IntelliSenseExtender](https://github.com/Dreamescaper/IntelliSenseExtender) - 
 - [EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore) - Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
-- [greenshot](https://github.com/greenshot/greenshot) - Greenshot repository, use our JIRA for none development / source related bugs: https://greenshot.atlassian.net or look for information on:
+- [greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
 - [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - 
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Xamarin.Forms Official Home
@@ -256,6 +257,7 @@
 - [lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+- [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [tinykaboom](https://github.com/ssloy/tinykaboom) - A brief computer graphics / rendering course
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!
 - [that_terminal](https://github.com/bisqwit/that_terminal) - It’s that terminal! This project was mostly created (or started) in a livestream series.
@@ -280,10 +282,9 @@
 - [fltk](https://github.com/fltk/fltk) - FLTK - Fast Light Tool Kit - https://github.com/fltk/fltk - cross platform GUI development
 - [snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 - [atom](https://github.com/nucleic/atom) - Memory efficient Python objects
-- [zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 - [envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
-- [math](https://github.com/stan-dev/math) - The Stan Math Library is a C++, reverse-mode automatic differentiation library designed to be usable, extensive and extensible, efficient, scalable, stable, portable, and redistributable in order to facilitate the construction and utilization of algorithms that utilize derivatives.
+- [math](https://github.com/stan-dev/math) - The Stan Math Library is a C++ template library for automatic differentiation of any order using forward, reverse, and mixed modes.  It includes a range of built-in functions for probabilistic modeling, linear algebra, and equation solving.
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [gflags](https://github.com/gflags/gflags) - The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at:
 - [cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
@@ -325,7 +326,7 @@
 - [devicon](https://github.com/konpa/devicon) - Set of icons representing programming languages, designing & development tools
 - [aesthetic-css](https://github.com/torch2424/aesthetic-css) - A vaporwave CSS framework
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [lovelace-website](https://github.com/project-lovelace/lovelace-website) - 🏛️ Server-side source code for the Project Lovelace website.
+- [lovelace-website](https://github.com/project-lovelace/lovelace-website) - 📜 Server-side source code for the Project Lovelace website. Built with Django.
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: A flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios.
 
 ## Clojure 
@@ -387,6 +388,7 @@
 
 ## Go 
 
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in &lt;1s.
 - [gxui](https://github.com/google/gxui) - An experimental Go cross platform UI library.
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [app](https://github.com/maxence-charriere/app) - A WebAssembly framework to build GUI with Go, HTML and CSS.
@@ -395,7 +397,7 @@
 - [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang
 - [thanos](https://github.com/improbable-eng/thanos) - Highly available Prometheus setup with long term storage capabilities.
-- [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
 - [todoist](https://github.com/sachaos/todoist) - Todoist CLI Client. I ❤️ Todoist and CLI.
 - [projektor](https://github.com/yamnikov-oleg/projektor) - Fast application launcher for Gnome written in Go
@@ -450,7 +452,7 @@
 - [tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
-- [WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp in NodeJS 😜
+- [WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 July 4th, 2019
 - [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
 - [blockrain.js](https://github.com/Aerolab/blockrain.js) - HTML5 Tetris Game for jQuery
@@ -479,7 +481,7 @@
 - [staticman](https://github.com/eduardoboucas/staticman) - 💪  Static sites with superpowers
 - [engine.io](https://github.com/socketio/engine.io) - 
 - [foswig.js](https://github.com/mrsharpoblunto/foswig.js) - A markov chain based random word generator
-- [amphtml](https://github.com/ampproject/amphtml) - The AMP web component library.
+- [amphtml](https://github.com/ampproject/amphtml) - The AMP web component framework.
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [rockstar](https://github.com/RockstarLang/rockstar) - The Rockstar programming language specification
@@ -541,6 +543,7 @@
 
 ## Others 
 
+- [vid](https://github.com/vlang/vid) - Open-source editor written in V with the performance of Sublime Text
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
@@ -596,8 +599,8 @@
 
 ## Python 
 
+- [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
 - [challenges](https://github.com/pybites/challenges) - PyBites Code Challenges
-- [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [jumpcutter](https://github.com/carykh/jumpcutter) - Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
 - [YouTubeCommenter](https://github.com/HackerPoet/YouTubeCommenter) - AI to generate YouTube comments based on video title
@@ -640,7 +643,7 @@
 - [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
 - [luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
-- [bocadillo](https://github.com/bocadilloproject/bocadillo) - 🥪 A modern Python web framework filled with asynchronous salsa
+- [bocadillo](https://github.com/bocadilloproject/bocadillo) - Fast, scalable and real-time capable web APIs for everyone
 - [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - The x86 processor fuzzer
 - [isso](https://github.com/posativ/isso) - a Disqus alternative
 - [TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
@@ -651,7 +654,7 @@
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [PyPDF2](https://github.com/mstamy2/PyPDF2) - A utility to read and write PDFs with Python
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
-- [lovelace-engine](https://github.com/project-lovelace/lovelace-engine) - ⚙️ Automated testing of code submissions for computational science education.
+- [lovelace-engine](https://github.com/project-lovelace/lovelace-engine) - 🚜 Automated testing of code submissions for computational science education.
 - [CoderChef-Kitchen](https://github.com/DivyaGodayal/CoderChef-Kitchen) - The official repository for our programming kitchen which consists of 50+ delicious programming recipes having all the interesting ingredients ranging from dynamic programming, graph theory, linked lists and much more. All the articles contain beautiful images and some gif/video at times to help clear important concepts.
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
@@ -722,7 +725,7 @@
 - [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
 - [Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 - [cpython](https://github.com/python/cpython) - The Python programming language
-- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
@@ -829,6 +832,10 @@
 ## Yacc 
 
 - [compiler_series](https://github.com/bisqwit/compiler_series) - Material for the Creating a Compiler video lesson series.
+
+## Zeek 
+
+- [zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 
 
 ## License
