@@ -55,6 +55,7 @@
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [V](#v)
   - [Vim script](#vim-script)
   - [WebAssembly](#webassembly)
   - [Yacc](#yacc)
@@ -70,6 +71,7 @@
 
 ## Assembly 
 
+- [mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
 - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
@@ -79,6 +81,9 @@
 
 ## C 
 
+- [bic](https://github.com/hexagonal-sun/bic) - A C interpreter and API explorer.
+- [openlitespeed](https://github.com/litespeedtech/openlitespeed) - Our high-performance, lightweight, open source HTTP server
+- [TDengine](https://github.com/taosdata/TDengine) - An open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
 - [cglm](https://github.com/recp/cglm) - 📽 Highly Optimized Graphics Math (glm) for C
 - [webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows)
@@ -111,6 +116,7 @@
 - [fcrackzip](https://github.com/hyc/fcrackzip) - A braindead program for cracking encrypted ZIP archives. Forked from http://oldhome.schmorp.de/marc/fcrackzip.html
 - [vectorize_test](https://github.com/SanderMertens/vectorize_test) - Test the performance difference between vectorized and non-vectorized code
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+- [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
 - [kvm-kext](https://github.com/geohot/kvm-kext) - An implementation of /dev/kvm for Mac OS X
 - [freebsd](https://github.com/freebsd/freebsd) - FreeBSD src tree (read-only mirror)
 - [xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
@@ -133,9 +139,9 @@
 - [libleak](https://github.com/WuBingzheng/libleak) - detect memory leak by LD_PRELOAD, without changing the target program
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://my-netdata.io/
-- [RediSearch](https://github.com/RediSearch/RediSearch) - FullText Search and Secondary Index module for Redis
+- [RediSearch](https://github.com/RediSearch/RediSearch) - Fulltext Search and Secondary Index module for Redis
 - [kazmath](https://github.com/Kazade/kazmath) - A C math library targeted at games
-- [mathc](https://github.com/felselva/mathc) - Pure C math library for 2D and 3D programming. &gt;&gt;I am busy these days, but this library is still maintained and pull requests are welcome&lt;&lt;
+- [mathc](https://github.com/felselva/mathc) - Pure C math library for 2D and 3D programming. [[ Currently working on a major update (20 Jul 2019) ]]
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
 - [lua](https://github.com/lua/lua) - The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send issues/patches to the Lua mailing list https://www.lua.org/lua-l.html
 - [x48](https://github.com/gwenhael-le-moine/x48) - HP48 calculator emulator (mirror of sourceforge's mirror of berlios)
@@ -160,15 +166,15 @@
 - [os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [COS](https://github.com/CObjectSystem/COS) - C Object System: a framework that brings C to the level of other high level programming languages and beyond
 - [tinycc](https://github.com/TinyCC/tinycc) - Mirror from mob branch
-- [Porcupine](https://github.com/Picovoice/Porcupine) - On-device wake word detection powered by deep learning.
+- [porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c.  See the wiki for release tarballs for download.  API docs at http://json-c.github.io/json-c/
 - [telebot](https://github.com/smartnode/telebot) - Telegram Bot API in C
-- [nnn](https://github.com/jarun/nnn) - :dolphin: Lean, fast, zero-config, full-featured file manager with batteries
+- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X
 - [nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
 - [DragonFlyBSD](https://github.com/DragonFlyBSD/DragonFlyBSD) - DragonFly BSD System Source Repository (read-only mirror)
-- [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps.
+- [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) - This is the official repo for John the Ripper, "Jumbo" version. The "bleeding-jumbo" branch is based on 1.9.0-Jumbo-1 which was released on May 14, 2019. An import of the "core" version of john this jumbo was based on (or newer) is found in the "master" branch (CVS: https://cvsweb.openwall.com/cgi/cvsweb.cgi/Owl/packages/john/john/src/).
 - [thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
@@ -183,6 +189,8 @@
 
 ## C# # 
 
+- [MathSharp](https://github.com/john-h-k/MathSharp) - A vector and matrix library written in C# using hardware intrinsics
+- [EntityFramework6](https://github.com/aspnet/EntityFramework6) - This is the codebase for Entity Framework 6 (previously maintained at https://entityframework.codeplex.com). Entity Framework Core is maintained at https://github.com/aspnet/EntityFrameworkCore.
 - [IntelliSenseExtender](https://github.com/Dreamescaper/IntelliSenseExtender) - 
 - [EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore) - Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
@@ -254,6 +262,8 @@
 
 ## C++ 
 
+- [plex-media-player](https://github.com/plexinc/plex-media-player) - Next generation Plex Desktop/Embedded Client
+- [ponyc](https://github.com/ponylang/ponyc) - :horse: Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 - [lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
 - [imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -310,7 +320,7 @@
 - [OneLife](https://github.com/jasonrohrer/OneLife) - a multiplayer survival game of parenting and civilization building
 - [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [GDevelop](https://github.com/4ian/GDevelop) - :video_game: GDevelop is an open source HTML5 and native game creator requiring no coding skills.
+- [GDevelop](https://github.com/4ian/GDevelop) - :video_game: GDevelop is an open-source, cross-platform game engine designed to be used by everyone.
 - [qupzilla](https://github.com/QupZilla/qupzilla) - Cross-platform Qt web browser
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -327,7 +337,7 @@
 - [aesthetic-css](https://github.com/torch2424/aesthetic-css) - A vaporwave CSS framework
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [lovelace-website](https://github.com/project-lovelace/lovelace-website) - 📜 Server-side source code for the Project Lovelace website. Built with Django.
-- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: A flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios.
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
 ## Clojure 
 
@@ -371,7 +381,7 @@
 
 - [emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [emacs-fireplace](https://github.com/johanvts/emacs-fireplace) - A cozy fireplace for emacs.
-- [dotfiles](https://github.com/kadinparker/dotfiles) - 
+- [dotfiles](https://github.com/setenforce0/dotfiles) - 
 
 ## Erlang 
 
@@ -388,7 +398,9 @@
 
 ## Go 
 
-- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in &lt;1s.
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
+- [pigo](https://github.com/esimov/pigo) - Go implementation of Pico face detection library.
+- [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [gxui](https://github.com/google/gxui) - An experimental Go cross platform UI library.
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [app](https://github.com/maxence-charriere/app) - A WebAssembly framework to build GUI with Go, HTML and CSS.
@@ -396,7 +408,7 @@
 - [ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library in Go
 - [pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
 - [ludo](https://github.com/libretro/ludo) - A libretro frontend written in golang
-- [thanos](https://github.com/improbable-eng/thanos) - Highly available Prometheus setup with long term storage capabilities.
+- [thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 - [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [elvish](https://github.com/elves/elvish) - Friendly Interactive Shell and Expressive Programming Language
 - [todoist](https://github.com/sachaos/todoist) - Todoist CLI Client. I ❤️ Todoist and CLI.
@@ -414,7 +426,6 @@
 
 - [infinite-scroll](https://github.com/metafizzy/infinite-scroll) - 📜 Automatically add next page
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
@@ -436,6 +447,7 @@
 
 ## Java 
 
+- [MPS](https://github.com/JetBrains/MPS) - JetBrains Meta programming System
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 - [TinyFerdinand](https://github.com/dribbleware1/TinyFerdinand) - A simple java game im working on! follow along with progress here:
@@ -444,7 +456,8 @@
 
 ## JavaScript 
 
-- [kaleidosync](https://github.com/zachwinter/kaleidosync) - An HTML5 Spotify visualizer, powered by the Echo Nest.
+- [WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
+- [kaleidosync](https://github.com/zachwinter/kaleidosync) - An HTML5 Spotify visualizer, built with spotify-viz and Vue.
 - [soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 - [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
@@ -452,9 +465,9 @@
 - [tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 - [preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
-- [WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 July 4th, 2019
+- [WBOT](https://github.com/vasani-arpit/WBOT) - A simple Web based BOT for WhatsApp™ in NodeJS 😜. Working as of 📅 Sep 13th, 2019
 - [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [slate](https://github.com/lord/slate) - Beautiful static documentation for your API
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [blockrain.js](https://github.com/Aerolab/blockrain.js) - HTML5 Tetris Game for jQuery
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
@@ -473,7 +486,6 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
-- [storybook](https://github.com/storybookjs/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [nuclear](https://github.com/nukeop/nuclear) - Desktop music player for streaming from free sources
 - [cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
@@ -486,17 +498,17 @@
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [rockstar](https://github.com/RockstarLang/rockstar) - The Rockstar programming language specification
 - [appium-desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux
-- [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php, R, Go, Rust, JSON
+- [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to python, javascript, php, R, Go, Rust, Dart, JSON, Ansible
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [DoodleMaster](https://github.com/karanchahal/DoodleMaster) - "Don't code your UI, Draw  it !"
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Caret](https://github.com/thomaswilburn/Caret) - A sublime text editor for Chrome OS
-- [Ghost](https://github.com/TryGhost/Ghost) - 👻 The most popular headless Node.js CMS for professional publishing
+- [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
 - [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier library for NodeJS
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
-- [Differentia.js](https://github.com/Floofies/Differentia.js) - A Graph Theory & Data Structure Library for JavaScript
+- [Differentia.js](https://github.com/Floofies/Differentia.js) - No longer being supported or maintained. A Graph Theory & Data Structure Library for JavaScript.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people.
 - [encom-boardroom](https://github.com/arscan/encom-boardroom) - 📈 Web tribute to the Tron: Legacy Boardroom Scene
 - [500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
@@ -517,7 +529,9 @@
 ## Jupyter Notebook 
 
 - [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
+- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
+- [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
 ## Lua 
 
@@ -525,7 +539,6 @@
 
 ## Makefile 
 
-- [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
 - [redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## Nim 
@@ -543,7 +556,8 @@
 
 ## Others 
 
-- [vid](https://github.com/vlang/vid) - Open-source editor written in V with the performance of Sublime Text
+- [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
+- [lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [awesome-c](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
@@ -551,6 +565,7 @@
 - [project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
 - [nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) - Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier
+- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - :pill: Curated list of falsehoods programmers believe in.
 - [freebsd-ports](https://github.com/freebsd/freebsd-ports) - FreeBSD ports tree (read-only mirror)
@@ -599,6 +614,10 @@
 
 ## Python 
 
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
+- [httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
+- [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python
 - [challenges](https://github.com/pybites/challenges) - PyBites Code Challenges
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
@@ -624,11 +643,11 @@
 - [forbiddenfruit](https://github.com/clarete/forbiddenfruit) - Patch built-in python objects
 - [glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
 - [gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
-- [30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) - Python implementation of 30-seconds-of-code
+- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - A curated collection of useful Python snippets that you can understand in 30 seconds or less.
 - [AmbroBot](https://github.com/Ambro17/AmbroBot) - Telegram bot to suit my needs
 - [FaceEditor](https://github.com/HackerPoet/FaceEditor) - Unsupervised learning to find facial features.
-- [Sparlab](https://github.com/realjohnward/Sparlab) - Sparlab is an open source training platform for fighting gamers
 - [twitchcoins](https://github.com/geohot/twitchcoins) - 
+- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [twitchslam](https://github.com/geohot/twitchslam) - A toy implementation of monocular SLAM written while livestreaming
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
@@ -654,7 +673,7 @@
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [PyPDF2](https://github.com/mstamy2/PyPDF2) - A utility to read and write PDFs with Python
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
-- [lovelace-engine](https://github.com/project-lovelace/lovelace-engine) - 🚜 Automated testing of code submissions for computational science education.
+- [lovelace-engine](https://github.com/project-lovelace/lovelace-engine) - 🚜 Automated and secure testing of code submissions in multiple languages for Project Lovelace.
 - [CoderChef-Kitchen](https://github.com/DivyaGodayal/CoderChef-Kitchen) - The official repository for our programming kitchen which consists of 50+ delicious programming recipes having all the interesting ingredients ranging from dynamic programming, graph theory, linked lists and much more. All the articles contain beautiful images and some gif/video at times to help clear important concepts.
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on PyQt5.
@@ -663,14 +682,13 @@
 - [inter](https://github.com/rsms/inter) - The Inter font family
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
 - [Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, and 3.7.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
-- [black](https://github.com/python/black) - The uncompromising Python code formatter
+- [black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [logpy](https://github.com/logpy/logpy) - Logic Programming in Python
 - [Akilang](https://github.com/syegulalp/Akilang) - A compiler for a simple language, built with Python and LLVM
 - [interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) - Interactive Tutorials
 - [python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [ninja-ide](https://github.com/ninja-ide/ninja-ide) - {Ninja-IDE Is Not Just Another IDE}
-- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [jellylanguage](https://github.com/DennisMitchell/jellylanguage) - Jelly is a recreational programming language inspired by J.
 - [15-minute-apps](https://github.com/mfitzp/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
 - [crossCobra](https://github.com/morten1982/crossCobra) - Python IDE using PyQt5
@@ -697,7 +715,6 @@
 - [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
 - [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
-- [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of config from code.
 - [vyper](https://github.com/CrispyBacon1999/vyper) - A telegram bot API designed around API Version 3.0. Includes a few bot template classes, making getting started with bot development easier.
@@ -757,9 +774,9 @@
 
 ## Rust 
 
+- [artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
 - [anne-key](https://github.com/ah-/anne-key) - Firmware for Anne Pro Keyboard written in Rust
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [XORcism](https://github.com/BenH11235/XORcism) - Command-line tool that breaks rotating-xor (and similar) ciphertexts
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -792,7 +809,7 @@
 
 - [DDAnimatedSwitch](https://github.com/d-dotsenko/DDAnimatedSwitch) - 👍🏼 Awesome animated switch
 - [fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
-- [gitignore.io](https://github.com/joeblau/gitignore.io) - Create useful .gitignore files for your project
+- [gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
 - [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
 
@@ -813,12 +830,18 @@
 - [Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors.
 - [desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [browser](https://github.com/bitwarden/browser) - The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more).
+- [storybook](https://github.com/storybookjs/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 - [vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
 - [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
 - [blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## V 
+
+- [vid](https://github.com/vlang/vid) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in &lt;1s.
+- [v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s. 1.0 release in December 2019. https://vlang.io
 
 ## Vim script 
 
