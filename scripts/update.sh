@@ -13,9 +13,9 @@
 # then export it to GITHUB_TOKEN, and starred should automatically pick that token.
 # example: export GITHUB_TOKEN=replace_with_your_token
 
-pushd /mnt/d/Documents/Projects/awesome-stars/ &>/dev/null
+pushd ~/Documents/Projects/awesome-stars/ &>/dev/null
 echo Regenerating README.md...
-python3.7 -m starred.starred --username dizaztor --sort > ../README.md
+python3 -m starred.starred --username dizaztor --sort > ../README.md
 echo Updating the repo...
 git add -A &>/dev/null
 git commit -m "auto-update" &>/dev/null
