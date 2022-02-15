@@ -15,7 +15,7 @@
 
 pushd ~/Documents/Projects/awesome-stars/ &>/dev/null
 echo Regenerating README.md...
-python3 -m starred.starred --username mmitsu --sort > ../README.md
+python3 -m starred.starred --username mmakdis --sort > README.md
 echo Updating the repo...
 git add -A &>/dev/null
 git commit -m "auto-update" &>/dev/null
